@@ -1,0 +1,242 @@
+[
+  {
+    "prenom_nom": "Mamadou Ndoye",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Rufisque",
+    "commune": "Bargny",
+    "cause_mort": "Percuté par un véhicule de police",
+    "presentation": "<p>Mamadou Ndoye, sans emploi, souffrait d'une déficience mentale. Il est mort après avoir été percuté par un véhicule de police à Bargny. Il ne manifestait pas mais était présent sur les lieux. A Bargny, tout le monde savait que cet habitant de Ndal Dally avait l'habitude de fréquenter les abords du commissariat, zone des manifestations où il rendra l'âme après le choc.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.228615, 14.691074]
+    },
+    "date_mort": "2023-06-02",
+    "age": 53,
+    "profession": "Sans emploi"
+  },
+  {
+    "prenom_nom": "Ousmane Badio",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Ziguinchor",
+    "commune": "Ziguinchor",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Gorge nouée, voix chevrotante étreinte par l'émotion, Adja Assima Gassama égrène les nombreux souvenirs qui constellent sa mémoire et lui rappellent Ousmane Badio, son petit-fils brutalement arraché à l'affection des siens le 1er juin 2023, date de la condamnation de l'opposant politique Ousmane Sonko.<br>Si l'adolescent était connu pour son calme olympien, il n'en démordait pas quand il s'agissait de ses choix de vie. <br>C'est ainsi que sa passion pour les motos et la mécanique le poussera à s'écarter, au grand dam de son père, des chemins traditionnels balisés par l'école.<br>Un pari pourtant gagnant puisque les premiers pas d'Ousmane dans l'univers rigoureux de la mécanique moto sont concluants au point de lui permettre de décrocher un emploi dans un atelier environnant.<br>Là-bas, l'apprenti se perfectionne, il excelle, il gravit les échelons et devient même l'homme de confiance du patron qui n'hésite pas à lui confier les clefs des lieux.<br>Une ascension brutalement brisée par un tir mortel que la grand-mère attribue aux forces de police qui, en ce premier jour du mois de juin, répriment véhément les manifestations dans le quartier de Korentas.  <br>\"Ce jour-là, après avoir fait sa toilette, Ousmane est sorti pour rejoindre ses oncles et aînés afin de deviser dehors. Selon des témoins, il a été atteint par le tir mortel d'un policier qui se trouvait en face de lui, peu de temps après avoir posé les pieds hors de la maison familiale.\" confie une Adja Assima résignée. <br>Il décèdera en cours d'évacuation à l'hôpital Silence au sein duquel sa grand-mère retrouvera sa dépouille. <br>Comme ultime geste d'amour, une caresse sur la tête de son petit Ousmane qui laisse derrière lui une famille désabusée.<br>Le choc émotionnel fut tel qu'il rendit son père aphone et alité. <br>Une peine qui n'a d'égal que la générosité du défunt. <br>En témoigne cette dernière anecdote narrée par la grand-mère: \"La veille de son décès, Ousmane a vidé son armoire de ses vêtements et m'a demandé de les offrir aux autres\".<br>Acte curieux pour sa famille mais altruiste comme son auteur.<br>Ousmane Badio avait 17 ans.<br>Il était l'unique garçon d'une fratrie de deux enfants.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.271187, 12.583562]
+    },
+    "date_mort": "2023-06-02",
+    "age": 17,
+    "profession": "Mécanicien"
+  },
+  {
+    "prenom_nom": "Souleymane Sano",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Ziguinchor",
+    "commune": "Lyndiane",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Âgé de 25 ans, Souleymane Sano a été tué par balles lors des affrontements du 2 juin à Ziguinchor. « Il est mort dans mes bras », raconte son ami qui dit avoir aperçu le tireur, un policier. Souleymane habitait Lyndiane, un quartier ziguinchorois.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.291008, 12.564504]
+    },
+    "date_mort": "2023-06-02",
+    "age": 25,
+    "profession": "Travailleur"
+  },
+  {
+    "prenom_nom": "Modou Beye",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Oussouye",
+    "commune": "Cap Skirring",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Modou Beye, pêcheur de 25 ans, était au Cap Skirring où il est mort après avoir reçu une balle pendant les manifestations.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.712813, 12.363894]
+    },
+    "date_mort": "2023-06-02",
+    "age": 25,
+    "profession": "Pêcheur"
+  },
+  {
+    "prenom_nom": "Abdoulaye Camara dit \"Baba Kana\"",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Niary Tally",
+    "cause_mort": "Mort par balle et mauvais traitement",
+    "presentation": "<p>Sa dernière vidéo postée sur son compte Tik Tok a des allures de testament. En halpulaar, langue d'expression de son art, le rappeur Abdoulaye Kamara y faisait un vibrant plaidoyer contre l'injustice et invitait ses pairs artistes, les dignitaires religieux, les sportifs et autres porteurs de voix à se prononcer contre les abus posés par le pouvoir. Un dernier message frappé du sceau de l'engagement, leitmotiv de la vie du défunt qui arpentait les scènes sous le nom de Baba Kana. Abdoulaye Kamara est mort le 3 juin à Niary Tally.  Ce jour-là, vers 18h, il se rend chez un ami aux HLM. Sur le chemin du retour, il croise des forces de l'ordre aux prises avec des manifestants. En voulant traverser ce tohu-bohu indescriptible, il est atteint par balle. En atteste l'autopsie dont fait état un communiqué publié par la famille: « décès par suite de blessure abdominale par arme à feu ». Les images de son corps emporté et malmené par les forces de l'ordre ont fait le tour des réseaux sociaux. On l'y voit recevoir un coup de fusil et des coups de pied de la part des policiers. La famille ne parviendra à récupérer le corps de leur fils que deux jours plus tard après moults pérégrinations entre commissariats et hôpitaux dakarois. Elle annonce vouloir porter plainte. Abdoulaye Kamara dit Baba Kana repose à Boinodji (Matam), au terme de sa 38ème année.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.451251, 14.702928]
+    },
+    "date_mort": "2023-06-03",
+    "age": 38,
+    "profession": "Rappeur"
+  },
+  {
+    "prenom_nom": "Doudou Diene",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Rufisque",
+    "commune": "Bargny",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Comme à son habitude, Doudou Diene dit \"Petit\" revenait de son poulailler à Guinaw Rails avant d'être touché par deux balles à Bargny. Promettant de revenir, il avait fait faire du café à l'épouse de son frère. Malheureusement, la dernière fois que la voix de celui qui animait la maison des Diene sera entendue, ce sera pour demander pardon à son père et sa mère, au téléphone. Il rendra l'âme au matin du samedi après une intervention chirurgicale à l'hôpital Idrissa Pouye de Grand Yoff sans espoir diront les médecins à ses proches: « La balle avait fait trop de dégâts », confie son père. Petit Diene était âgé de 34 ans, époux et père d'un bébé dont il a fêté le premier anniversaire il y a un mois.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.227067, 14.694928]
+    },
+    "date_mort": "2023-06-03",
+    "age": 34,
+    "profession": "Aviculteur"
+  },
+  {
+    "prenom_nom": "Mamadou Tall",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Ziguinchor",
+    "commune": "Néma 2",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Mamadou Tall, sénégalo-mauritanien, a été touché par une balle perdue au poumon gauche alors qu’il se trouvait dans sa chambre entre le 4 et le 5 juin. A Ziguinchor, dans le sud du Sénégal, certains pensent même que Mamadou Tall a été touché pendant qu’il priait. « Personne ne sait ce qu’il faisait, lance ce proche qui souhaite garder l’anonymat. Ce qui est sûr, c’est qu’il était chez lui ». Il y a bien un trou dans le volet métallique extérieur de sa maisonnette située dans le quartier de Néma 2. A l’intérieur de ce deux-pièces d’un grand dénuement, sans luminaire, du sang séché macule la dalle en béton, noirci par endroits par la chaleur de la Casamance. Rien n’a été touché depuis la funeste nuit : son matelas, ses claquettes, ses habits jetés sur une valise rose, ses mégots, son « jakarta » (surnom donné aux motos-taxis) ou encore ses téléphones sont toujours là [in Le Monde, 12 juin 2023].</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.287736, 12.561679]
+    },
+    "date_mort": "2023-06-04",
+    "age": 44,
+    "profession": "Conducteur de moto jakarta"
+  },
+  {
+    "prenom_nom": "Ousmane Dia",
+    "status": "draft",
+    "region": "Thiès",
+    "departement": "Mbour",
+    "commune": "Mbour",
+    "cause_mort": "Mort à la suite d'une détresse respiratoire",
+    "presentation": "<p>Ousmane Dia est mort dans la maison d’arrêt et de correction de Mbour des suites d’une chaîne de négligences de l’Etat selon sa famille.<br>La descente aux enfers de ce vendeur de journaux commence le 30 Mai 2023, date à laquelle la gendarmerie de Nguekokh est prise d’assaut par des manifestants.<br>Nous sommes la veille de la condamnation de l'opposant politique Ousmane Sonko.<br>Pour disperser la foule, les gendarmes tirent des munitions.<br>Ousmane Dia sera touché à la cuisse gauche par une balle en caoutchouc.<br>Sorti de chez lui pour aller acheter à manger, le jeune homme de 25 ans a été attiré sur les lieux du drame par la clameur issue des affrontements entre population et forces de l’ordre.<br>S’ensuit une convalescence qui sera abruptement abrégée quelques jours plus tard par des gendarmes qui, sur ordre du procureur, l’emmènent à la brigade de recherches de Saly pour les besoins de l’enquête sur les manifestations du 30 mai.<br>Malgré son infirmité, sa nature épileptique et sa santé chancelante attestées par des ordonnances et un certificat médical apportés par la famille, Ousmane Dia est placé en détention.<br>Pire, il est empêché d’avoir accès à ses médicaments contre l’épilepsie.<br>Salimata Thiam, mère du défunt, dénonce: « Ils ne m’ont pas permis de lui donner ses médicaments. Je leur ai présenté un certificat médical mais le juge a décidé que seuls les médecins dédiés avaient la prérogative de cautionner l’entrée de ces médicaments après s’être assuré de son état de santé. »<br>Le 7 juillet, alors qu’elle se rend à la Mac de Mbour pour y voir son fils, Salimata Thiam est surprise d’apprendre dans un premier temps qu’il a été acheminé à l’hôpital.<br>Puis elle est informée du décès de son garçon. « Ousmane est malade, on l’a amené à l’hôpital et il a fini par décéder là-bas. » lui dit-on.<br>La mère éplorée conteste cette version et affirme que son fils est mort dans la prison.<br>Dépossédé de ses médicaments, Ousmane Dia a enchaîné les crises d’épilepsie dans sa cellule.<br>Le témoignage du major de la prison qui confirme l’avoir vu piquer deux crises est corroboré par le rapport du médecin légiste qui mentionne deux crises convulsives la veille et une heure trente avant le « constat de décès » aux Urgences de l’hôpital.<br>Le 9 juillet, l’administration pénitentiaire invite la famille du défunt à assister à l’autopsie du corps. Les résultats indiquent une mort par étouffement suite à sa crise.<br>Le procureur Elias Abdoulaye Diop abonde dans le même sens: « La mort est liée à une détresse respiratoire aiguë » clame t-il.<br>Lui qui, onze jours avant la mort d’Ousmane, avait ordonné son arrestation et demandé qu’il soit envoyé en prison malgré son état de santé alarmant.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.965294, 14.405825]
+    },
+    "date_mort": "2023-07-07",
+    "age": 26,
+    "profession": "Vendeur de journaux"
+  },
+  {
+    "prenom_nom": "Modou Kanté",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Ziguinchor",
+    "commune": "Ziguinchor",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Modou Kanté, 24 ans, maçon de son état qui décide malgré tout de se rendre sur son lieu de travail, un chantier situé dans le quartier de Grand-Dakar à Ziguinchor. Mais c’est peine perdue pour le jeune homme, qui est congédié pour la journée, en raison d'un début de manifestation. Modou décide alors de passer l'après-midi en compagnie de ses amis. Lorsque la nouvelle du placement d’Ousmane Sonko sous mandat de dépôt tombe, des protestations éclatent sur toute l'étendue du territoire national. Ziguinchor n'est pas en reste. À Néma Kadior, près du domicile du chef de file du Pastef, l'ambiance est tendue. Vers 16h, un dispositif de sécurité important mêlant policiers, gendarmes et militaires y est déployé. À 17h, Edouard Diatta reçoit un appel téléphonique d'un ami de Modou l'informant que ce dernier a été évacué à l'hôpital régional à la suite d'une blessure par balle reçue à la poitrine. Pris de court, il enjoint son épouse Ami Collé de se rendre au chevet de leur fils avant de s'écrouler de douleur. Une heure après son arrivée à l'hôpital, la mère de Modou est avisée du décès de celui qui était l'unique garçon de la fraterie. Le défunt, qui s'était joint aux manifestations avec ses amis, laisse derrière lui une famille endeuillée et des voisins chagrinés dans le quartier Château d'eau où il habitait. « Modou était affable et courtois. Il avait toujours un mot bienveillant pour les uns et taquinait les autres, à l’instar du jour de son décès, comme s'il nous faisait ses adieux... il avait toujours le sourire aux lèvres et ne répondait jamais aux provocations quitte à passer pour un poltron. » témoigne Khady Dieme, une voisine de la famille Diatta. Des qualités confirmées par le papa de Modou qui se remémore son fils, un homme de paix, réputé sans histoire. Modou était un passionné de football. Il fut gardien de l’association sportive et culturelle de Ziguinchor. Sa famille réclame justice.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.264683, 12.563605]
+    },
+    "date_mort": "2023-07-31",
+    "age": 24,
+    "profession": "Maçon"
+  },
+  {
+    "prenom_nom": "Moustapha Badji",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Ziguinchor",
+    "commune": "Ziguinchor",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Dans la concession familiale des Badji, les visages sont hagards et creusés par la tristesse. Un silence de cathédrale, parfois fendu par de douloureux cris stridents, s'est emparé des lieux. Parents, famille et amis font le deuil du regretté Moustapha Badji, 40 ans, mort le 31 juillet lors des manifestations qui ont suivi le placement sous mandat de dépôt de l'opposant politique Ousmane Sonko. Assis sur une chaise au milieu de la cour, Babacar Badji rumine sa colère. Dans la poche de son pantalon, une douille qu'il brandit non sans amertume: « Cette douille provient de la balle qui l'a touché. » assène t-il avec dépit. Le grand frère atterré se repasse les images de ce jour fatidique où il a appris la mort de Tapha. Il raconte qu'ensemble, ils ont assisté à la cérémonie funéraire du septième jour d'un défunt voisin. Cérémonie que son frère a par la suite quitté pour aller déjeuner à la maison familiale, avant de se rendre aux manifestations. Quelques instants plus tard Babacar voient des jeunes qui accourent vers lui et lui annoncent que son frère a été touché par balle. Il s’empresse alors de rejoindre le poste de santé de Kandé où il trouve le corps sans vie de son petit frère. Un dénouement tragique pour Tapha, ancien militaire qui était venu passer la fête de Tabaski à Ziguinchor et qui s'apprêtait à regagner Dakar où il exerçait en tant que chauffeur de taxi et dont le retour à Dakar avait été diffèré afin d'assister au baptême du nouveau-né de Babacar. Cette dernière amabilité est à l'image du personnage unanimement loué pour son altruisme confirmé par la mère du défunt. Entre deux sanglots, Mariama Sagna rabat son voile blanc sur son visage afin de sécher ses larmes abondantes. Cette épreuve du deuil lui est familière. Elle lui rappelle de mauvais souvenirs. Elle qui a déjà enterré quatre garçons. « Moustapha est le cinquième fils que je porte sous terre. Je m'accroche à Dieu et me soumets à la volonté divine mais ma vie n'a plus de sens. Mon séjour terrestre n'a plus de raison d'être » confesse la mère éplorée. El Hadj Mané, un autre proche du défunt, réclame justice afin que toutes les responsabilités soient situées et que les acteurs de ce drame soient sanctionnés. Moustapha Badji avait deux jeunes enfants: un fils âgé de cinq ans et une petite fille de trois ans.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.257388, 12.567069]
+    },
+    "date_mort": "2023-07-31",
+    "age": 40,
+    "profession": "Taximan"
+  },
+  {
+    "prenom_nom": "Bara Ba",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Pikine Ouest",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Dans une vidéo devenue virale sur les réseaux sociaux sénégalais, Bara Ba, vêtu d’un maillot de l’équipe nationale et d’un pantalon noir frétille de joie. Après avoir fait le pied de grue devant le domicile du leader politique Ousmane Sonko, le jeune de 25 ans improvise un talisman composé d'eau et de sable recueilli tout près de la résidence de l'opposant. La mixture contenue dans une bouteille en plastique lui servira de protection, confie t-il à la caméra. Une précaution teintée d'amour et de dévotion qui s'avérera vaine puisque Bara Ba trouvera tragiquement la mort le 31 juillet 2023, tué par une balle lors des manifestations qui ont embrasées Pikine suite à l’incarcération d’Ousmane Sonko. Triste fin pour celui dont l’ardeur militante est encore sur toutes les bouches. « Bara croyait dur comme fer aux idéaux du Pastef. Il est mort pour ses idées. Jamais je ne l’aurais empêché de manifester pour ses convictions car je sais qu'il était un homme de principes. » affirme sa mère, digne dans l’épreuve et reconnaissante d’avoir eu un fils « pétri de valeurs ». Même son de cloche chez Joe Mansour Niang, grand-père maternel du défunt qui se remémore de Bara tel une pile électrique: « il débordait d’énergie et allait souvent en manifestation quand l’occasion se présentait » témoigne t-il. Un engagement qui l’avait d’ailleurs conduit à assurer le gardiennage des clefs du siège de Pastef à Pikine-est en plus de ses activités de réparateur de machines à coudre. Bara Ba est mort des suites d’une « plaie abdomino thoracique transfixiante par arme à feu » selon le certificat de mort produit le 02 Août. Il repose aujourd'hui à Touba, sa ville natale.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.397862, 14.756924]
+    },
+    "date_mort": "2023-07-31",
+    "age": 25,
+    "profession": "Réparateur de machines à coudre"
+  },
+  {
+    "prenom_nom": "Mamadou Saliou Diallo",
+    "status": "draft",
+    "region": "Kolda",
+    "departement": "Vélingara",
+    "commune": "Diaobé",
+    "cause_mort": "Raison inconnue",
+    "presentation": null,
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-14.154497, 12.913553]
+    },
+    "date_mort": "2023-08-01",
+    "age": null,
+    "profession": "Commerçant"
+  },
+  {
+    "prenom_nom": "Thierno Dahaba",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Ziguinchor",
+    "commune": "Boucotte Sud",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.283233, 12.564672]
+    },
+    "date_mort": "2023-08-04",
+    "age": 21,
+    "profession": "Conducteur de moto jakarta"
+  },
+  {
+    "prenom_nom": "Alpha Yoro Tounkara",
+    "status": "draft",
+    "region": "Saint-Louis",
+    "departement": "Saint-Louis",
+    "commune": "Gandon",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.421621, 16.060374]
+    },
+    "date_mort": "2024-02-09",
+    "age": 22,
+    "profession": "Etudiant"
+  },
+  {
+    "prenom_nom": "Landing Diédhiou",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Ziguinchor",
+    "commune": "Ziguinchor",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.291246, 12.559029]
+    },
+    "date_mort": "2024-02-10",
+    "age": 17,
+    "profession": "Elève"
+  }
+]

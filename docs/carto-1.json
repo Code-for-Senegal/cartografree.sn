@@ -1,0 +1,640 @@
+[
+  {
+    "prenom_nom": "Cheikh Coly",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Bignona",
+    "commune": "Bignona",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-04",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Baye Cheikh Diop",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Yeumbeul",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-04-04",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Famara Goudiaby",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Bignona",
+    "commune": "Bignona",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-05",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Cheikhouna Ndiaye",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Parcelles Assainies",
+    "cause_mort": "Poignardé",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-05",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Pape Sidy Mbaye",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Keur Massar",
+    "commune": "Keur Massar",
+    "cause_mort": "Mort dans l'incendie du supermarché Auchan de Keur Massar",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-05",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Mansour Thiam",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Colobane",
+    "cause_mort": null,
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-05",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Alassane Barry",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Centenaire",
+    "cause_mort": null,
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-05",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Bounama Sylla Sagna",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Bignona",
+    "commune": "Bignona",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-05",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Sadio Camara",
+    "status": "draft",
+    "region": "Kolda",
+    "departement": "Kolda",
+    "commune": "Diaobé",
+    "cause_mort": null,
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-06",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Moussa Dramé",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": null,
+    "commune": null,
+    "cause_mort": null,
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-06",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Cheikh Wade",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": null,
+    "commune": "Parcelles Assainies",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-08",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Chérif Mané",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": null,
+    "commune": null,
+    "cause_mort": "A succombé à ses blessures du 5 mars 2021",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-16",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Sdf Anonyme",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": null,
+    "commune": "Dakar Plateau",
+    "cause_mort": "Retrouvé mort au Plateau par la Croix-Rouge sénégalaise en marge des manifestations.",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2021-03-08",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Albert Abdoulaye Diatta",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": null,
+    "commune": "Bignona",
+    "cause_mort": null,
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2022-06-16",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Idrissa Goudiaby",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": null,
+    "commune": "Ziguinchor",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2022-06-16",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Anonyme",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": null,
+    "commune": "Colobane",
+    "cause_mort": "Mort lorsqu'un matelas a pris feu à coté de lui. Circonstances floues. Manifestants accusent FDS qui disent que l'individu voulait jeter un cocktail molotov",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2022-06-16",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Adji Diallo",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": null,
+    "commune": "Ngor",
+    "cause_mort": null,
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2023-05-09",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Ismaila Pandose Diedhiou",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": null,
+    "commune": "Ziguinchor",
+    "cause_mort": "Mort lors des barricades devant chez Sonko à Ziguinchor",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2023-05-16",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Doudou Fall",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": null,
+    "commune": "Médina",
+    "cause_mort": "Employé de la mairie de Medina. Accusé d'être un nervis, lynché",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2023-03-01",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Gora Diop",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": null,
+    "commune": "Parcelles Assainies",
+    "cause_mort": null,
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2023-03-16",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Pape Amadou Keïta",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Keur Mbaye Fall",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Le 16 mai 2023, dans les heures qui suivent la publication de la photo de l'adolescent gisant dans le sang, le ministère de l'Intérieur s'empresse de publier un communiqué sur la mort de Pape Amadou Keita. <br>Il aurait été poignardé, dit l'État du Sénégal, mais les résultats de l'autopsie sont implacables : un projectile a traversé le poumon gauche et la base du cœur du jeune homme. Une double peine pour son père Tanor Keïta, qui perd son espoir âgé de seulement 17 ans dans une manifestation à la veille du procès de l’opposant Ousmane SONKO, accusé de viol.<br>Ce jour, Pape Amadou, un passionné de football surnommé « Di Maria » par ses coéquipiers, était parti au marché pour acheter un maillot du PSG. Il se mêle à la foule et trouva la mort. « Un énorme gâchis » selon sa surveillante générale qui décrit « un élève travailleur ». PAK laisse derrière lui un père inconsolable qui attend désespérément que justice soit rendue.</p>",
+    "localisation": null,
+    "date_mort": "2023-05-16",
+    "age": 17,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Aliou Bodian",
+    "status": "draft",
+    "region": "Kolda",
+    "departement": "Kolda",
+    "commune": null,
+    "cause_mort": null,
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2023-05-26",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Baye Fallou Sene",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Unité 22 Parcelles Assainies",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Baye Fallou Sène est mort à la fleur de l'âge. Il avait 17 ans. Le 1er juin, sa curiosité le pousse à se soustraire à l'attention de sa maman pour aller observer les heurts entre policiers et manifestants aux Parcelles Assainies. Parti de l'Unité 16, il reçoit une balle en pleine poitrine au croisement 22. Il est évacué par une charrette à bord de laquelle il rendra l'âme selon son beau-frère. Face à la perte de son benjamin, la mère de Fallou préfère se draper d'une grande dignité et s'en remettre à Dieu. Elle garde l'heureux souvenir d'un enfant « calme, pudique et respectueux ». Élève au lycée Le Scientifique, le défunt rêvait de devenir footballeur professionnel. Aujourd'hui, Baye Fallou Sène repose dans la cité religieuse de Touba, au cimetière de Darou Salam.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.434984, 14.753183]
+    },
+    "date_mort": "2023-06-01",
+    "age": 17,
+    "profession": "Élève"
+  },
+  {
+    "prenom_nom": "Seny Coly",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Sicap Liberté 6",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Seny Coly résidait à Niary Tally et partait travailler dans une boulangerie des Parcelles Assainies lorsqu'il a été fauché par une balle à Liberté 6.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.408313, 14.773188]
+    },
+    "date_mort": "2023-06-01",
+    "age": 26,
+    "profession": "Boulanger"
+  },
+  {
+    "prenom_nom": "Khadim Ba",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Nietty Mbar",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Khadim Ba avait décidé de prendre part aux manifestations avec ses amis à Pikine le 1er juin. Malheureusement il y a tragiquement trouvé la mort. Pour certains habitants du quartier Pikine Nietti Mbar, dans la banlieue de Dakar où habite le jeune mécanicien de 21 ans, le coupable n'est nul autre qu'un nervi. Selon des témoignages, ce dernier a été identifié par les compagnons d'infortune du défunt mais il se serait lui-même rendu à la police de peur d'être lynché par la foule en colère. Chez la famille de Khadim Ba, l'heure n'est pas à la vengeance. Parents et amis sont plutôt occupés à pleurer la perte d'un jeune digne et au sens du partage inégalable. Ibrahima Ba se raccroche à cette dernière image du corps inerte de son fils : « Après avoir appris que Khadim a été touché par balle, je me suis rendu au dispensaire. J'ai ôté le drap qui couvrait son visage et je l'ai appelé par son prénom ». Le père endeuillé n'obtiendra jamais de réponse.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.384223, 14.762288]
+    },
+    "date_mort": "2023-06-01",
+    "age": 21,
+    "profession": "Mécanicien"
+  },
+  {
+    "prenom_nom": "Mor Nguer Ndiaye",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Fass Mbao",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Mor Nguer Ndiaye était un amoureux du ballon rond. Le 1er juin, vers 18h25, il décide d'aller s'entraîner au terrain de football situé près de chez lui. Avant de partir, il rassure sa mère qui lui conseille de faire attention aux manifestations houleuses se déroulant dans le quartier. Le jeune homme de 22 ans n'est pas inquiet car, pour éviter tout heurt, il prévoit de passer par un chemin autre que celui qu'il avait coutume d'emprunter. Ce détour lui sera fatal. Quelques pas lui suffiront à se retrouver au milieu d'une course poursuite entre policiers et manifestants. Le footballeur sera atteint à la mâchoire par un tir. Évacué à l'hôpital de Thiaroye, il décédera à 1h30 du matin. « Le médecin a confirmé que Mor a été touché par une balle réelle de 9mm », nous a confié le père du défunt. Assane Ndiaye décrit un fils révérencieux, courtois envers tous et uniquement mû par sa passion du football. Une passion qui l'avait conduit à entamer une formation dans une école de foot mbouroise.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.350896, 14.763058]
+    },
+    "date_mort": "2023-06-01",
+    "age": 22,
+    "profession": "Footballeur"
+  },
+  {
+    "prenom_nom": "Mouhamed Sylla",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Thiaroye",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Le 1er juin, chez la famille Sylla, le patriarche Soriba avait pris les devants en défendant sa progéniture de sortir car dehors, les affrontements entre policiers et jeunes avaient atteint un pic de violence inquiétant. Hélas, ses précautions prises n'auront pas suffi à empêcher son fils de figurer parmi les victimes des manifestations. Ce jour-là, le défunt Mouhamed Sylla passe la journée au sein de la demeure familiale. A 17h, il y effectue sa prière puis décide de rejoindre ses parents qui tiennent une échoppe située à quelques encablures. L'adolescent de 19 ans déjeune en leur compagnie et prend sans tarder le chemin du retour au cours duquel sa vie est abrégée par un tir de balle. Mis au courant par les riverains, Soriba Sylla se lance dans une recherche effrénée de son fils dont il ne retrouvera le corps que le lendemain à l'hôpital Baudin. Malheureux dénouement pour celui qui espérait un brillant avenir pour son enfant. Le père, attristé, se souvient à quel point Mouhamed était studieux et consciencieux. Même son de cloche chez la soeur du disparu qui regrette un jeune homme poli. Élève en classe de 3ème, Mouhamed Sylla était candidat à l'examen du BFEM qu'il ne passera jamais.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.375418, 14.760937]
+    },
+    "date_mort": "2023-06-01",
+    "age": 19,
+    "profession": "Élève"
+  },
+  {
+    "prenom_nom": "Babacar Samba",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Rufisque",
+    "commune": "Bargny",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Babacar Samba a été tué par balles le 1er juin à Bargny. Soudeur métallique en troisième année de formation, il était âgé de 20 ans. Son homonyme décrit un jeune discipliné. Mamadou Samba, père du défunt, loue les qualités d'un fils débrouillard et respectueux qui était l'espoir de toute une famille. En apprentissage, il profitait du dimanche pour travailler et prenait souvent le relai de son père « en payant le petit-déjeuner de la famille ». Son oncle réclame que la lumière soit faite sur les circonstances du décès.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.234233, 14.699702]
+    },
+    "date_mort": "2023-06-01",
+    "age": 20,
+    "profession": "Soudeur métallique en formation"
+  },
+  {
+    "prenom_nom": "Omar Sarr",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Ziguinchor",
+    "commune": "Ziguinchor",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Omar Sarr est mort atteint d’une balle le 1er juin à Ziguinchor.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.292809, 12.558978]
+    },
+    "date_mort": "2023-06-01",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Sidya Diatta",
+    "status": "draft",
+    "region": "Ziguinchor",
+    "departement": "Ziguinchor",
+    "commune": "Ziguinchor",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Quand Boubacar Diatta parle de son regretté petit frère, il se laisse volontiers aller aux confidences. Il raconte comment Sidya Diatta abhorrait les injustices, comment il était de toutes les batailles du parti Pastef dont il était militant depuis 2018, comment il était un soutien pour ses frères et sœurs. Sidya avait 32 ans. N'ayant pas trouvé d'emploi à la fin de ses études à l'Université Catholique de l’Afrique de l’Ouest (UCAO), il s'était lancé dans l'agriculture. Il est mort le 1er juin à Ziguinchor après avoir été atteint par balle comme l'a confirmé l'autopsie que sa famille n'a pu consulter que partiellement. « La police nous a empêchés de lire l'intégralité de l’autopsie », dénonce Boubacar Diatta. Les proches de Sidya Diatta disent être déterminés à obtenir justice.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.257533, 12.566686]
+    },
+    "date_mort": "2023-06-01",
+    "age": 32,
+    "profession": "Agriculteur"
+  },
+  {
+    "prenom_nom": "El Hadj Mamadou Cissé",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Grand Yoff",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>L'annonce de sa mort a secoué la twittosphère sénégalaise. El Hadj Mamadou Cissé y était connu sous le pseudonyme de \"Buur Joie\". Dès l'annonce du décès de cet étudiant en lettres modernes né au quartier de l'église de Grand-Yoff , ses photos ont inondé la toile et délié les langues. Les témoignages furent unanimes quant à sa bonté et sa piété. C'est d'ailleurs en revenant de la mosquée qu'il a été touché par une balle à l'épaule. Son frère Djimbal Ba raconte que face à la fermeture de la mosquée qu'il avait l'habitude de fréquenter, Mamadou s'est rendu dans une autre mosquée située derrière sa maison. Sur le chemin du retour il sera pris au piège des tirs qui faisaient rage. Il rendit l'âme à l'hôpital Idrissa Pouye où il fut acheminé. Une immense foule l'a accompagné à sa dernière demeure à travers un cortège coordonné de bout en bout par les jeunes chrétiens de l'Église Saint Paul. El Hadj Mamadou Cissé devait se rendre au Canada en août afin d'y poursuivre ses études.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.4489603, 14.7394007]
+    },
+    "date_mort": "2023-06-02",
+    "age": 26,
+    "profession": "Etudiant en lettres modernes"
+  },
+  {
+    "prenom_nom": "Tamsir Cissé",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Unité 5 Golf Sud",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Tamsir Cissé est mort atteint d’une balle le 2 juin à Dakar.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.428176, 14.762183]
+    },
+    "date_mort": "2023-06-02",
+    "age": null,
+    "profession": "Commerçant"
+  },
+  {
+    "prenom_nom": "Mamadou Moustapha Gueye",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Unité 24, Parcelles Assainies",
+    "cause_mort": "Mort par crise d'asthme",
+    "presentation": "<p>Mamadou Moustapha Guèye était réalisateur et cinéaste. Le 2 juin, après une longue journée de travail, il emprunte le chemin du retour pour rallier son domicile. Il regagne alors un quartier baignant dans un chaos monstre. En effet, à l'Unité 24 des Parcelles Assainies, policiers et manifestants s'opposent âprement. Pour disperser la foule, les forces de l'ordre usent de gaz lacrymogènes qui rendent l'air irrespirable. Une atmosphère étouffante qui aura eu raison de Mamadou, asthmatique depuis le bas âge. Après avoir piqué une crise d'asthme, Mamadou Moustapha Gueye, surnommé \"Sounou\", a rendu l'âme pendant son évacuation à l'hôpital Général Idrissa Pouye de Grand Yoff. Sounou laisse derrière lui une famille accablée par le chagrin et un monde du cinéma endeuillé par sa perte. Ses collègues et amis se souviennent de « son exemplarité, son dévouement envers les gens et sa gentillesse ». Une générosité qui manquera à ses étudiants de Ciné Banlieue auxquels il dispensait gratuitement des formations afin de leur mettre le pied à l'étrier. Âgé de 44 ans, Sounou mûrissait de nombreux projets audiovisuels parmi lesquels un documentaire sur les cimetières. Triste clin d'œil du destin.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.447575, 14.754991]
+    },
+    "date_mort": "2023-06-02",
+    "age": 44,
+    "profession": "Réalisateur-cinéaste"
+  },
+  {
+    "prenom_nom": "Bacary Diémé",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Thiaroye (Tableau Tivaouane)",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Fils unique, Bacary Diémé, peintre pour automobile de 27 ans, est mort le 2 juin après avoir été touché par balle lors des manifestations. Il a rendu l’âme après son évacuation à l'hôpital de Pikine, dans la banlieue de Dakar. L’annonce de sa mort a drainé du monde dans la maison familiale, sise à Diamaguène, un quartier de la banlieue dakaroise. Le défunt, né à Bignona, dans la région de Ziguinchor dans le sud du Sénégal, était connu pour son sens du respect, témoigne son cousin Bacary Badji. Il rappelle que ce dernier n’était affilié à aucun parti politique. Face à ce drame qui les touche, la famille Diémé s'en remet à Dieu.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.373063, 14.746313]
+    },
+    "date_mort": "2023-06-02",
+    "age": 27,
+    "profession": "Peintre pour automobile"
+  },
+  {
+    "prenom_nom": "Serigne Fallou Sall",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Thiaroye sur Mer",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Serigne Fallou Sall n’aura jamais atteint le domicile familial. De retour d’un déjeuner chez son oncle, le jeune ouvrier-ferrailleur de 17 ans est touché par balle le 2 juin aux alentours de 19h à Thiaroye. Il ne sera évacué à bord d’une ambulance qu’à 2h du matin, puis ballotté entre les hôpitaux du camp de Thiaroye et de Fann. <br><br>La mort de Serigne Fallou Sall est une illustration limpide des défaillances qui peuvent accompagner les prises en charge médicales d’urgence au Sénégal.<br><br>A l’hôpital de Fann, où Fallou sera reçu le 3 juin, sa famille révèle qu’il ne recevra pas les soins escomptés. Une double peine pour le père du défunt, Assane Sall. Il dénonce : « En plus d’avoir reçu une balle, mon fils a dû se la coltiner dans le corps pendant presque 24h sans qu’elle ne soit extraite par les équipes médicales. Un adulte n’aurait jamais pu supporter une telle épreuve, a fortiori un mineur ». <br><br>Malgré la douleur, Assane Sall lance un appel clairvoyant aux autorités sénégalaises qu’il invite à améliorer le plateau médical et assurer la sécurité des citoyens.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.373063, 14.746313]
+    },
+    "date_mort": "2023-06-02",
+    "age": 17,
+    "profession": "Ouvrier-ferrailleur"
+  },
+  {
+    "prenom_nom": "Malang Mané",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Diamniadio",
+    "commune": "Diamniadio",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Malang Mané est mort dans le cadre d'une intervention lors des manifestations du 2 juin à Diamniadio. Ce gendarme surnommé \"Boss\" est originaire du village de Kagnobon dans le département de Bignona.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.180343, 14.718185]
+    },
+    "date_mort": "2023-06-02",
+    "age": null,
+    "profession": "Gendarme"
+  },
+  {
+    "prenom_nom": "Lassana Diarisso",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Mbao",
+    "cause_mort": "Mort sous torture",
+    "presentation": "<p>Le corps sans vie de Lassana Diarisso a été retrouvé le vendredi 2 juin. Lass etait très connu. Des jeunes l’ont reconnu et ont appelé Makha, son frère à l’arrêt Keur Mbaye Fall du Train Express Régional (TER). Ce vendredi, alors qu’il était parti garer sa voiture afin de la préserver d’éventuels actes de vandalisme, il a été percuté, sur le chemin du retour, par un véhicule de gendarmerie, raconte un de ses proches. Amoché, il a ensuite été emmené par des gendarmes de la Légion de gendarmerie d'intervention de Mbao qui l’ont conduit dans la brigade du TER de Keur Mbaye Fall selon des témoins. Ses proches affirment qu’il a subi des sévices. « Nous avons tenté de le récupérer à deux reprises des mains des gendarmes qui nous ont opposé un refus catégorique », raconte son frère qui confie que les cris d’agonie du défunt résonnent encore dans sa tête. Le corps sans vie de Lassana Diarisso a finalement été remis à son père à l’arrêt du TER de sa commune.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.3132, 14.744403]
+    },
+    "date_mort": "2023-06-02",
+    "age": 21,
+    "profession": "Livreur"
+  },
+  {
+    "prenom_nom": "Bassirou Sarr",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Guinaw Rails Nord",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Bassirou Sarr était un tailleur dévoué à son quartier et à sa famille. Ce trentenaire que ses proches décrivent comme disponible et généreux s'en est allé après une dernière largesse à l'égard de sa maman Mbada Diouf. Elle confie : « Le jour de son décès il m'avait offert de l'argent. Il était d'un soutien indéfectible. C'est très douloureux de perdre son enfant dans ces circonstances ». Lamine Sarr, grand frère du défunt, réclame justice et souhaite que soit levée l'opacité autour du décès de Bassirou. Convaincu qu'un gendarme est responsable du tir mortel qui a ôté la vie de son frère, il est conforté dans sa position par le témoignage d'un ami de la famille qui a assisté à la mort du tailleur de 31 ans. Il raconte : « Nous étions en train de manifester. Bassirou qui était tout juste derrière moi a reçu une balle d'un gendarme qui a pointé son arme vers nous et tiré ». En attendant que la lumière soit faite, Guinaw Rails fait le deuil de son fils brutalement arraché à son affection.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.378928, 14.751768]
+    },
+    "date_mort": "2023-06-02",
+    "age": 31,
+    "profession": "Tailleur"
+  },
+  {
+    "prenom_nom": "Ismaila Traoré",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Guinaw Rails",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Très tôt, Ismaila Traoré, connu sous le sobriquet de \"Petit\", a écourté ses études afin de subvenir aux besoins de sa famille. Toujours aux petits soins de sa mère, c'est d'ailleurs cette dernière qu'il accompagnait à l'hôpital lorsqu'il a été touché par balles à la tête sur le chemin du retour. \"Petit\" a succombé aux balles qui crépitaient dans une ruelle de Guinaw Rails, terrain d'affrontements entre policiers et jeunes. Âgé de 28 ans, Ismaila était un jeune homme dégourdi, touche à tout qui ne lésinait pas sur les moyens pour satisfaire son entourage.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.388379, 14.745871]
+    },
+    "date_mort": "2023-06-02",
+    "age": 28,
+    "profession": "Gardien, débrouillard à plusieurs métiers"
+  },
+  {
+    "prenom_nom": "Inconnu 1",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Guediawaye",
+    "commune": "Hopital Dalal Jamm",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.408313, 14.773188]
+    },
+    "date_mort": "2023-06-02",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Inconnu 2",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Guediawaye",
+    "commune": "Hopital Dalal Jamm",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.408313, 14.773188]
+    },
+    "date_mort": "2023-06-02",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Inconnu 3",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Guediawaye",
+    "commune": "Hopital Dalal Jamm",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.408313, 14.773188]
+    },
+    "date_mort": "2023-06-02",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Inconnu 4",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Guediawaye",
+    "commune": "Hopital Dalal Jamm",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.408313, 14.773188]
+    },
+    "date_mort": "2023-06-02",
+    "age": null,
+    "profession": null
+  },
+  {
+    "prenom_nom": "Ibrahima Drago",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Pikine",
+    "commune": "Guinaw Rails Sud",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Ibrahima Drago a été tué par balles le 2 juin à Pikine.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.384711, 14.744938]
+    },
+    "date_mort": "2023-06-02",
+    "age": 24,
+    "profession": "Employé au port"
+  }
+]

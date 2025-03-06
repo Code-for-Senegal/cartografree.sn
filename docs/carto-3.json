@@ -1,0 +1,47 @@
+[
+  {
+    "prenom_nom": "Modou Guèye",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Colobane",
+    "cause_mort": "Mort par balle",
+    "presentation": "<p>Vendredi 9 février 2024, Modou Guéye, résident de Pikine Guinaw-Rails Sud, reçoit une balle dans l’abdomen, alors qu’il s’apprêtait à prendre le Train Express Régional (TER) à hauteur de la gare de Colobane. En ce jour de rassemblement prévu à la Place de la Nation contre le report de la présidentielle de février 2024, son seul tort était de vouloir écouler sa marchandise : un stock d’invendus de maillots de l’équipe nationale du Sénégal que ce commerçant avait acquis, lors de la coupe d’Afrique des Nations, marquée par une élimination prématurée des Lions. « Pendant les manifestations, les participants veulent toujours s’afficher avec les couleurs de la Nation, c’est pourquoi après la prière de vendredi, nous nous y sommes rendus pour en profiter », raconte son frère Mame Dame, témoin de la scène. Malheureusement, à leur arrivée à Colobane, les forces de l’ordre ont déjà pris possession des lieux. Les tirs de grenades lacrymogènes fusent alors de toute part. Pris de panique, Modou et son frère se perdent de vue un instant avant de se retrouver à proximité de la gare du TER. C’est là que Modou Guéye reçoit une balle. « Celui qui a tiré sur mon frère est un gendarme en tenue », affirme Mame Dame. Transporté en urgence à l’hôpital Principal de Dakar, l’établissement de santé militaire refuse dans un premier temps de prendre en charge le blessé dans ses locaux. Puis, après trois opérations, Modou Guéye succombe à ses blessures, le lendemain, samedi 10 février, à 7h45. Dans le certificat de mort, il est mentionné qu’il a subi, « un traumatisme thoraco-abdominal par arme à feu avec l'éclatement du foie, ayant entraîné un choc hémorragique réfractaire malgré les moyens chirurgicaux et d'embolisation. » Modou Guèye repose au cimetière de Touba.</p>",
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-17.441981, 14.699998]
+    },
+    "date_mort": "2024-02-10",
+    "age": 23,
+    "profession": "Commerçant"
+  },
+  {
+    "prenom_nom": "Prosper Clédor Senghor",
+    "status": "draft",
+    "region": "Saint-Louis",
+    "departement": "Saint-Louis",
+    "commune": "Gandon",
+    "cause_mort": null,
+    "presentation": null,
+    "localisation": {
+      "type": "Point",
+      "coordinates": [-16.421621, 16.060374]
+    },
+    "date_mort": "2024-02-21",
+    "age": 22,
+    "profession": "Etudiant"
+  },
+  {
+    "prenom_nom": "Serigne Fallou Mbacké Diop",
+    "status": "draft",
+    "region": "Dakar",
+    "departement": "Dakar",
+    "commune": "Parcelles Assainies",
+    "cause_mort": "Mort par balle",
+    "presentation": null,
+    "localisation": null,
+    "date_mort": "2025-01-24",
+    "age": null,
+    "profession": null
+  }
+]

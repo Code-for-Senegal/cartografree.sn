@@ -1,0 +1,32 @@
+{
+  "name": "cartografreesn",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/color-mode": "^3.3.2",
+    "@nuxtjs/seo": "^2.2.0",
+    "@nuxtjs/tailwindcss": "^6.11.4",
+    "@pinia/nuxt": "^0.5.1",
+    "@vue-leaflet/vue-leaflet": "^0.10.1",
+    "@vueuse/core": "^10.7.2",
+    "chart.js": "^3.9.1",
+    "dayjs": "^1.11.10",
+    "leaflet": "^1.9.4",
+    "nuxt-gtag": "^3.0.2",
+    "pinia": "^2.1.7",
+    "vue-chart-3": "^3.1.8"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/leaflet": "^1.9.8",
+    "nuxt": "^3.10.1",
+    "typescript": "^5.3.3"
+  }
+}
