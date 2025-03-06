@@ -1,75 +1,97 @@
-# Nuxt Minimal Starter
+# CartograFreeSenegal
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![CartograFreeSenegal Logo](/public/logo.png)
 
-## Setup
+## About the Project
 
-Make sure to install dependencies:
+CartograFreeSenegal is a digital memorial documenting the victims of political protest repressions in Senegal between March 2021 and February 2024. The project aims to provide accurate information about the human toll of police violence and to tell the stories of the victims.
 
+This initiative was born in the aftermath of the June 2023 popular uprisings, bringing together a team of journalists, cartographers, and data specialists. Through meticulous documentation and verification, CartograFreeSenegal works to dispel confusion around casualty figures and honor the memory of those who lost their lives.
+
+## Features
+
+- **Interactive Map**: Visualize the geographical distribution of victims across Senegal
+- **Victim Profiles**: Detailed information about each victim, including their story and circumstances
+- **Statistics**: Comprehensive data analysis by region, age, profession, and time period
+- **Video Testimonies**: First-hand accounts from witnesses and family members
+- **Social Media Integration**: Easy sharing of victim profiles and statistics
+
+## Tech Stack
+
+- **Frontend Framework**: [Nuxt.js 3](https://nuxt.com/) (Vue.js)
+- **UI/Styling**: [TailwindCSS](https://tailwindcss.com/)
+- **Data Visualization**: [Chart.js](https://www.chartjs.org/) with Vue-Chart-3
+- **Maps**: [Leaflet](https://leafletjs.com/) with Vue-Leaflet
+- **State Management**: [Pinia](https://pinia.vuejs.org/)
+- **Headless CMS**: [Directus](https://directus.io/)
+- **Deployment**: Static site generation with Nuxt
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or later)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
 ```bash
-# npm
+git clone https://github.com/your-username/cartografreesn.git
+cd cartografreesn
+```
+
+2. Install dependencies
+```bash
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
+# or
 yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
+3. Create a `.env` file in the root directory with the following variables:
+```
+DIRECTUS_URL=your_directus_api_url
+DIRECTUS_TOKEN=your_directus_api_token
+GOOGLE_ANALYTICS_ID=your_ga_id
+```
 
-Start the development server on `http://localhost:3000`:
-
+4. Start the development server
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
+# or
 yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+## Deployment
 
 Build the application for production:
-
 ```bash
-# npm
 npm run build
-
-# pnpm
-pnpm build
-
-# yarn
+# or
 yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+## Contributing
 
-```bash
-# npm
-npm run preview
+Contributions are welcome! If you'd like to contribute to this project, please contact the team through our social media channels.
 
-# pnpm
-pnpm preview
+## Social Media
 
-# yarn
-yarn preview
+- [Twitter/X](https://x.com/CartoFreeSn)
+- [Facebook](https://www.facebook.com/CartoFreeSn)
+- [Instagram](https://www.instagram.com/cartofreesn/)
+- [TikTok](https://www.tiktok.com/@cartofreesn)
 
-# bun
-bun run preview
-```
+## Contact
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+For data requests or other inquiries, please email: [freesenegalcarto@gmail.com](mailto:freesenegalcarto@gmail.com)
+
+## License
+
+This project is dedicated to public information and transparency. All data is freely accessible to media and civil society organizations.
+
+## Acknowledgments
+
+- Amnesty International for data on deaths prior to June 2023
+- All the families who shared their stories
+- The journalists, cartographers, and data specialists who contributed to this project
