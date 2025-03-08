@@ -1,0 +1,2033 @@
+{
+    "data": [
+        {
+            "id": 3,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.781Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T16:32:30.264Z",
+            "date_mort": "2021-03-04",
+            "prenom_nom": "Baye Cheikh Diop",
+            "age": 17,
+            "profession": "Mécanicien",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Baye Cheikh, fils a&icirc;n&eacute;, travaillait le 4 mars 2021 dans son atelier lorsqu&rsquo;il a &eacute;t&eacute; abattu. Les repr&eacute;sentants de l&rsquo;Etat venus pr&eacute;senter leurs condol&eacute;ances implorent son p&egrave;re de ne pas porter plainte et promettent de lui rendre justice. Ils ne prendront plus ses appels dans les mois suivants.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Yeumbeul",
+            "sexe": "M",
+            "photo_principale": "c585aad5-6cdf-459e-9278-85860b069f6f",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.359216270433848,
+                    14.775337200411926
+                ]
+            },
+            "afficher_accueil": true,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 2,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.764Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-06T01:51:09.191Z",
+            "date_mort": "2021-03-04",
+            "prenom_nom": "Cheikh Coly",
+            "age": 20,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": "<blockquote>\n<p>Tu as tu&eacute; le gamin</p>\n</blockquote>\n<p>dit un t&eacute;moin au membre des forces de d&eacute;fense et de s&eacute;curit&eacute; qui a tir&eacute; sur le jeune homme.&nbsp;<br>Cheikh, grand fan de foot et assistant de son p&egrave;re dans son travail de plomberie, devait passer le baccalaur&eacute;at en candidat libre.</p>\n<p>Il sera fauch&eacute; par une balle en plein c&oelig;ur.&nbsp;</p>",
+            "region": "Ziguinchor",
+            "departement": "Bignona",
+            "commune": "Bignona",
+            "sexe": "M",
+            "photo_principale": "ad5e9e51-9cb1-49df-8f67-25c890e2adfa",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.223616419164387,
+                    12.797943844603495
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": [
+                {
+                    "id": 11,
+                    "status": "published",
+                    "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+                    "date_created": "2025-03-06T01:51:09.196Z",
+                    "user_updated": null,
+                    "date_updated": null,
+                    "titre": "« Il a été tué par balle » : Cheikh Coly, raconté par son père",
+                    "type": "youtube",
+                    "url_youtube": "https://www.youtube.com/watch?v=5DM9eRB1x18",
+                    "victime": 2,
+                    "afficher_accueil": true,
+                    "date_publication": "2025-03-05T12:00:00"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.785Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T12:54:30.817Z",
+            "date_mort": "2021-03-05",
+            "prenom_nom": "Famara Goudiaby",
+            "age": 19,
+            "profession": "Etudiant",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Ziguinchor",
+            "departement": "Bignona",
+            "commune": "Bignona",
+            "sexe": "M",
+            "photo_principale": "9de82403-41f0-4bb8-9a2f-e252ab901ba2",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.226091313045714,
+                    12.797109937522691
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 8,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.804Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T19:38:01.983Z",
+            "date_mort": "2021-03-05",
+            "prenom_nom": "Alassane Barry",
+            "age": 17,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>C&rsquo;est &agrave; la morgue de l&rsquo;h&ocirc;pital Fann que la m&egrave;re d&rsquo;Alassane Barry retrouve son fils disparu apr&egrave;s son d&eacute;part, la veille, pour l&rsquo;&eacute;cole.</p>\n<blockquote>\n<p>&laquo; Pour la premi&egrave;re fois, je le touchais sans qu&rsquo;il ne me dise : \"M&egrave;re, qu&rsquo;y a-t-il ?\" &raquo;.</p>\n</blockquote>\n<p>Il avait la t&ecirc;te band&eacute;e &agrave; cause d&rsquo;un impact de balle.</p>",
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Centenaire",
+            "sexe": "M",
+            "photo_principale": "1570fb77-4238-4153-b15c-76843f2c375e",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.44613378196206,
+                    14.68765168801184
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": [
+                {
+                    "id": 5,
+                    "status": "published",
+                    "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+                    "date_created": "2025-03-03T19:38:01.996Z",
+                    "user_updated": null,
+                    "date_updated": null,
+                    "titre": "Médina - Mort de Alsanne Barry dans les manifestations: Sa mère craque et fond en larmes",
+                    "type": "youtube",
+                    "url_youtube": "https://www.youtube.com/watch?v=bqyW_QDW3ms",
+                    "victime": 8,
+                    "afficher_accueil": false,
+                    "date_publication": "2021-03-10T12:00:00"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.800Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T15:55:40.731Z",
+            "date_mort": "2021-03-05",
+            "prenom_nom": "Mansour Thiam",
+            "age": null,
+            "profession": "Commerçant",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Colobane",
+            "sexe": "M",
+            "photo_principale": "cda3efd5-de0c-4d5d-b7f8-5f59cdbfdfe5",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.44278059540798,
+                    14.698375610835598
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 5,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.789Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T12:56:14.178Z",
+            "date_mort": "2021-03-05",
+            "prenom_nom": "Cheikhouna Ndiaye",
+            "age": 22,
+            "profession": "Commerçant",
+            "cause_mort": "Poignardé",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Parcelles Assainies",
+            "sexe": "M",
+            "photo_principale": "4d929556-cc98-4348-9f61-bf824224dec7",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.42905029304373,
+                    14.756942402228972
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 6,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.795Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T12:58:18.897Z",
+            "date_mort": "2021-03-05",
+            "prenom_nom": "Pape Sidy Mbaye",
+            "age": 20,
+            "profession": "Elève en mécanique",
+            "cause_mort": "Mort par asphyxie",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Keur Massar",
+            "commune": "Keur Massar",
+            "sexe": "M",
+            "photo_principale": "6abb97c0-344b-4423-992d-8c4290dbc462",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.30943823540568,
+                    14.767023209025481
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": [
+                {
+                    "id": 2,
+                    "status": "draft",
+                    "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+                    "date_created": "2025-03-03T11:46:51.635Z",
+                    "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+                    "date_updated": "2025-03-03T17:27:08.263Z",
+                    "titre": "Auchan Keur Massar- Mort de Pape Sidy Mbaye: son frére revient sur les circonstances de sa mort",
+                    "type": "youtube",
+                    "url_youtube": "https://www.youtube.com/watch?v=D5s1AVnMf7w",
+                    "victime": 6,
+                    "afficher_accueil": true,
+                    "date_publication": "2021-03-11T12:00:00"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.808Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:10:22.937Z",
+            "date_mort": "2021-03-05",
+            "prenom_nom": "Bounama Sylla Sagna",
+            "age": 14,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Ziguinchor",
+            "departement": "Bignona",
+            "commune": "Bignona",
+            "sexe": "M",
+            "photo_principale": "6c8b0176-572d-464d-a342-0ed3e293b84a",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.22688627676885,
+                    12.796518307222627
+                ]
+            },
+            "afficher_accueil": true,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 10,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.811Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:14:23.330Z",
+            "date_mort": "2021-03-06",
+            "prenom_nom": "Sadio Camara",
+            "age": 18,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Kolda",
+            "departement": "Kolda",
+            "commune": "Diaobé",
+            "sexe": "M",
+            "photo_principale": "a535bf02-1126-4858-9fb4-50e3a89cd773",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -14.116994204955347,
+                    12.914282431873843
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 11,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.815Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:16:08.753Z",
+            "date_mort": "2021-03-06",
+            "prenom_nom": "Moussa Dramé",
+            "age": 35,
+            "profession": "Commerçant",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Moussa Dram&eacute; attendait le passage de la foule de manifestants pour continuer son chemin paisiblement. Une balle abr&eacute;gera la vie de ce soutien de famille originaire de la commune kaolackoise de Ndoffane. Dans un de leurs derniers &eacute;changes, il s'engageait &agrave; s'en charger et exhortait son p&egrave;re &agrave; ne plus se pr&eacute;occuper de l'approvisionnement en riz pour la maison.</p>",
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": null,
+            "sexe": "M",
+            "photo_principale": "c3937609-27ea-4c28-a230-edf9b8fea3a5",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.443803162074573,
+                    14.695544838071072
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 66,
+            "status": "published",
+            "user_created": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_created": "2025-03-03T14:57:32.741Z",
+            "user_updated": null,
+            "date_updated": null,
+            "date_mort": "2021-03-06",
+            "prenom_nom": "Massiré Gueye",
+            "age": 15,
+            "profession": "Mécanicien",
+            "cause_mort": "Percuté par un véhicule civil",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Sicap Mbao",
+            "sexe": "M",
+            "photo_principale": "2fc89273-3e96-4ad4-b261-b7caf0162656",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.350264295885864,
+                    14.75890485983821
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 14,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.829Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T17:49:30.217Z",
+            "date_mort": "2021-03-08",
+            "prenom_nom": "Anonyme",
+            "age": null,
+            "profession": null,
+            "cause_mort": null,
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Dakar Plateau",
+            "sexe": "M",
+            "photo_principale": "6bb92d24-37ef-44a9-ae0e-a7d54cb135bf",
+            "localisation": null,
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 12,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.821Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:18:01.291Z",
+            "date_mort": "2021-03-08",
+            "prenom_nom": "Cheikh Wade",
+            "age": 32,
+            "profession": "Couturier",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Parcelles Assainies",
+            "sexe": "M",
+            "photo_principale": "f2898204-cef3-431b-9965-3d366949fc93",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.436539471543057,
+                    14.752108293737905
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 13,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.825Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:19:42.832Z",
+            "date_mort": "2021-03-16",
+            "prenom_nom": "Chérif Abdoulaye Mané",
+            "age": 19,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Ziguinchor",
+            "departement": "Bignona",
+            "commune": "Bignona",
+            "sexe": "M",
+            "photo_principale": "26ffa50c-b123-4bf7-8591-96cda4a827d0",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.22643376623492,
+                    12.799276341581916
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 15,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.833Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:26:44.972Z",
+            "date_mort": "2022-06-16",
+            "prenom_nom": "Alexis Abdallah Diatta",
+            "age": 28,
+            "profession": "Jakartaman",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Ziguinchor",
+            "departement": null,
+            "commune": "Bignona",
+            "sexe": "M",
+            "photo_principale": "2247f08d-8bf9-45a3-af5b-27287dd9105e",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.23830480279608,
+                    12.796225135323397
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 16,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.837Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:25:31.168Z",
+            "date_mort": "2022-06-16",
+            "prenom_nom": "Idrissa Goudiaby",
+            "age": 43,
+            "profession": "Taximan",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Ziguinchor",
+            "sexe": "M",
+            "photo_principale": "1a8bd0e0-d78c-4333-b5c4-071a334b0cdd",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.29542075071754,
+                    12.560862031237761
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 17,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.840Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:27:56.001Z",
+            "date_mort": "2022-06-16",
+            "prenom_nom": "Anonyme",
+            "age": null,
+            "profession": null,
+            "cause_mort": "Mort calciné",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Colobane",
+            "sexe": "M",
+            "photo_principale": "06fa1aa3-b55d-44b4-87d3-0c3e48d8c2de",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.447523145896156,
+                    14.698569974188516
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 21,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.856Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:35:09.683Z",
+            "date_mort": "2023-03-16",
+            "prenom_nom": "Gora Diop",
+            "age": 27,
+            "profession": "Livreur",
+            "cause_mort": "Percuté par un véhicule de nervis présumés",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Parcelles Assainies",
+            "sexe": "M",
+            "photo_principale": "e8007789-2e26-4238-bf4a-c2355b0868d9",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.436698871807522,
+                    14.75224644319708
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 64,
+            "status": "published",
+            "user_created": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_created": "2025-03-03T13:41:03.853Z",
+            "user_updated": null,
+            "date_updated": null,
+            "date_mort": "2023-03-20",
+            "prenom_nom": "Mamadou Korka Ba",
+            "age": 22,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Ziguinchor",
+            "departement": "Bignona",
+            "commune": "Bignona",
+            "sexe": "M",
+            "photo_principale": "fee951bb-2d8a-4521-803f-2ac73cc755d9",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.226554709678624,
+                    12.798504490421081
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": [
+                {
+                    "id": 7,
+                    "status": "published",
+                    "user_created": "0362b822-0011-4b93-b051-7e4422debf5a",
+                    "date_created": "2025-03-04T06:15:03.907Z",
+                    "user_updated": null,
+                    "date_updated": null,
+                    "titre": "Mort de Mamadou Korka Ba à Bignona : le témoignage qui indexe le GARSI",
+                    "type": "youtube",
+                    "url_youtube": "https://youtu.be/Ie1hw7w-42s",
+                    "victime": 64,
+                    "afficher_accueil": true,
+                    "date_publication": "2025-03-04T12:00:00"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.844Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:29:03.739Z",
+            "date_mort": "2023-05-09",
+            "prenom_nom": "Adji Diallo",
+            "age": 16,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Ngor",
+            "sexe": "F",
+            "photo_principale": "41fc2cb0-80d7-4a04-8602-12e83caba92e",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.512535085091088,
+                    14.749685581296688
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 67,
+            "status": "published",
+            "user_created": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_created": "2025-03-03T22:43:46.771Z",
+            "user_updated": null,
+            "date_updated": null,
+            "date_mort": "2023-05-15",
+            "prenom_nom": "Hassimi Diédhiou",
+            "age": null,
+            "profession": "Policier",
+            "cause_mort": "Percuté par un véhicule de police",
+            "presentation": null,
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Ziguinchor",
+            "sexe": "M",
+            "photo_principale": "10796e8b-4de4-4c89-b3fb-022443cee011",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.268331489329313,
+                    12.555492291668742
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 19,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.849Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T22:44:04.880Z",
+            "date_mort": "2023-05-16",
+            "prenom_nom": "Ismaila Pandose Diedhiou",
+            "age": null,
+            "profession": null,
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Ziguinchor",
+            "sexe": "M",
+            "photo_principale": "f1949ecf-c20a-40c2-beb1-a47fa7dd99a1",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.267733229097416,
+                    12.555041295534068
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 22,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.860Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:37:28.406Z",
+            "date_mort": "2023-05-16",
+            "prenom_nom": "Pape Amadou Keïta",
+            "age": 17,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Le 16 mai 2023, dans les heures qui suivent la publication de la photo de l'adolescent gisant dans le sang, le ministère de l'Intérieur s'empresse de publier un communiqué sur la mort de Pape Amadou Keita. <br>Il aurait été poignardé, dit l'État du Sénégal, mais les résultats de l'autopsie sont implacables : un projectile a traversé le poumon gauche et la base du cœur du jeune homme. Une double peine pour son père Tanor Keïta, qui perd son espoir âgé de seulement 17 ans dans une manifestation à la veille du procès de l’opposant Ousmane SONKO, accusé de viol.<br>Ce jour, Pape Amadou, un passionné de football surnommé « Di Maria » par ses coéquipiers, était parti au marché pour acheter un maillot du PSG. Il se mêle à la foule et trouva la mort. « Un énorme gâchis » selon sa surveillante générale qui décrit « un élève travailleur ». PAK laisse derrière lui un père inconsolable qui attend désespérément que justice soit rendue.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Keur Mbaye Fall",
+            "sexe": "M",
+            "photo_principale": "f7225584-7947-4497-85ee-1f01be79c926",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.31841375988327,
+                    14.746690087938603
+                ]
+            },
+            "afficher_accueil": true,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 23,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.865Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:38:57.280Z",
+            "date_mort": "2023-05-26",
+            "prenom_nom": "Aliou Bodian",
+            "age": 37,
+            "profession": "Maçon",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Kolda",
+            "departement": "Kolda",
+            "commune": "Kolda",
+            "sexe": "M",
+            "photo_principale": "db983171-258a-4c5c-9feb-17168af2789d",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -14.938965067888034,
+                    12.895067733409135
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 29,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.891Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T12:51:45.768Z",
+            "date_mort": "2023-06-01",
+            "prenom_nom": "Babacar Samba",
+            "age": 20,
+            "profession": "Soudeur métallique en formation",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Babacar Samba a &eacute;t&eacute; tu&eacute; par balles le 1er juin &agrave; Bargny. Soudeur m&eacute;tallique en troisi&egrave;me ann&eacute;e de formation, il &eacute;tait &acirc;g&eacute; de 20 ans. Son homonyme d&eacute;crit un jeune disciplin&eacute;.</p>\n<p>&nbsp;</p>\n<p>Mamadou Samba, p&egrave;re du d&eacute;funt, loue les qualit&eacute;s d'un fils d&eacute;brouillard et respectueux qui &eacute;tait l'espoir de toute une famille. En apprentissage, il profitait du dimanche pour travailler et prenait souvent le relai de son p&egrave;re &laquo; en payant le petit-d&eacute;jeuner de la famille &raquo;.</p>\n<p>&nbsp;</p>\n<p>Son oncle r&eacute;clame que la lumi&egrave;re soit faite sur les circonstances du d&eacute;c&egrave;s.</p>",
+            "region": "Dakar",
+            "departement": "Rufisque",
+            "commune": "Bargny",
+            "sexe": "M",
+            "photo_principale": "13469fe9-c155-4ccd-bec2-bbcf414e76b6",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.234233,
+                    14.699702
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": [
+                {
+                    "id": 1,
+                    "status": "published",
+                    "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+                    "date_created": "2025-03-03T06:24:10.233Z",
+                    "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+                    "date_updated": "2025-03-03T17:27:04.747Z",
+                    "titre": "\"J'avais beaucoup d'espoir en lui\", A Bargny, avec la famille de Babacar Samba",
+                    "type": "youtube",
+                    "url_youtube": "https://www.youtube.com/watch?v=ZpvaR1Iiqb8",
+                    "victime": 29,
+                    "afficher_accueil": true,
+                    "date_publication": "2023-06-05T12:00:00"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.886Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T15:27:43.885Z",
+            "date_mort": "2023-06-01",
+            "prenom_nom": "Mouhamed Sylla",
+            "age": 19,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Le 1er juin, chez la famille Sylla, le patriarche Soriba avait pris les devants en défendant sa progéniture de sortir car dehors, les affrontements entre policiers et jeunes avaient atteint un pic de violence inquiétant. Hélas, ses précautions prises n'auront pas suffi à empêcher son fils de figurer parmi les victimes des manifestations. Ce jour-là, le défunt Mouhamed Sylla passe la journée au sein de la demeure familiale. A 17h, il y effectue sa prière puis décide de rejoindre ses parents qui tiennent une échoppe située à quelques encablures. L'adolescent de 19 ans déjeune en leur compagnie et prend sans tarder le chemin du retour au cours duquel sa vie est abrégée par un tir de balle. Mis au courant par les riverains, Soriba Sylla se lance dans une recherche effrénée de son fils dont il ne retrouvera le corps que le lendemain à l'hôpital Baudin. Malheureux dénouement pour celui qui espérait un brillant avenir pour son enfant. Le père, attristé, se souvient à quel point Mouhamed était studieux et consciencieux. Même son de cloche chez la soeur du disparu qui regrette un jeune homme poli. Élève en classe de 3ème, Mouhamed Sylla était candidat à l'examen du BFEM qu'il ne passera jamais.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Thiaroye",
+            "sexe": "M",
+            "photo_principale": "4d34d049-38a7-4f3c-913c-70bd575fe2cd",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.375418,
+                    14.760937
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 27,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.882Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-01",
+            "prenom_nom": "Mor Nguer Ndiaye",
+            "age": 22,
+            "profession": "Footballeur",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Mor Nguer Ndiaye &eacute;tait un amoureux du ballon rond. Le 1er juin, vers 18h25, il d&eacute;cide d'aller s'entra&icirc;ner au terrain de football situ&eacute; pr&egrave;s de chez lui. Avant de partir, il rassure sa m&egrave;re qui lui conseille de faire attention aux manifestations houleuses se d&eacute;roulant dans le quartier.&nbsp;</p>\n<p>Le jeune homme de 22 ans n'est pas inquiet car, pour &eacute;viter tout heurt, il pr&eacute;voit de passer par un chemin autre que celui qu'il avait coutume d'emprunter. Ce d&eacute;tour lui sera fatal. Quelques pas lui suffiront &agrave; se retrouver au milieu d'une course poursuite entre policiers et manifestants. Le footballeur sera atteint &agrave; la m&acirc;choire par un tir. &Eacute;vacu&eacute; &agrave; l'h&ocirc;pital de Thiaroye, il d&eacute;c&eacute;dera &agrave; 1h30 du matin.</p>\n<p>&laquo; Le m&eacute;decin a confirm&eacute; que Mor a &eacute;t&eacute; touch&eacute; par une balle r&eacute;elle de 9mm &raquo;, nous a confi&eacute; le p&egrave;re du d&eacute;funt.</p>\n<p>Assane Ndiaye d&eacute;crit un fils r&eacute;v&eacute;rencieux, courtois envers tous et uniquement m&ucirc; par sa passion du football. Une passion qui l'avait conduit &agrave; entamer une formation dans une &eacute;cole de foot mbouroise.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Fass Mbao",
+            "sexe": "M",
+            "photo_principale": "1d97ebd4-319e-4c07-85e3-cfd83fa055d7",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.350896,
+                    14.763058
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 26,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.877Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T19:41:55.555Z",
+            "date_mort": "2023-06-01",
+            "prenom_nom": "Khadim Ba",
+            "age": 21,
+            "profession": "Mécanicien",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Khadim Ba avait d&eacute;cid&eacute; de prendre part aux manifestations avec ses amis &agrave; Pikine le 1er juin. Malheureusement il y a tragiquement trouv&eacute; la mort. Pour certains habitants du quartier Pikine Nietti Mbar, dans la banlieue de Dakar o&ugrave; habite le jeune m&eacute;canicien de 21 ans, le coupable n'est nul autre qu'un nervi.</p>\n<p>Selon des t&eacute;moignages, ce dernier a &eacute;t&eacute; identifi&eacute; par les compagnons d'infortune du d&eacute;funt mais il se serait lui-m&ecirc;me rendu &agrave; la police de peur d'&ecirc;tre lynch&eacute; par la foule en col&egrave;re. Chez la famille de Khadim Ba, l'heure n'est pas &agrave; la vengeance. Parents et amis sont plut&ocirc;t occup&eacute;s &agrave; pleurer la perte d'un jeune digne et au sens du partage in&eacute;galable. Ibrahima Ba se raccroche &agrave; cette derni&egrave;re image du corps inerte de son fils :</p>\n<blockquote>\n<p>Apr&egrave;s avoir appris que Khadim a &eacute;t&eacute; touch&eacute; par balle, je me suis rendu au dispensaire. J'ai &ocirc;t&eacute; le drap qui couvrait son visage et je l'ai appel&eacute; par son pr&eacute;nom</p>\n</blockquote>\n<p>Le p&egrave;re endeuill&eacute; n'obtiendra jamais de r&eacute;ponse.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Nietty Mbar",
+            "sexe": "M",
+            "photo_principale": "7b817725-e705-4963-aaf4-af8f4355f06a",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.384223,
+                    14.762288
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": [
+                {
+                    "id": 6,
+                    "status": "draft",
+                    "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+                    "date_created": "2025-03-03T19:41:55.559Z",
+                    "user_updated": null,
+                    "date_updated": null,
+                    "titre": "\"J'ai le cœur meurtri\" : Le père de Khadim Ba témoigne",
+                    "type": "youtube",
+                    "url_youtube": "https://www.youtube.com/watch?v=o05V_SccRQs",
+                    "victime": 26,
+                    "afficher_accueil": false,
+                    "date_publication": "2023-06-04T12:00:00"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.869Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T15:27:50.024Z",
+            "date_mort": "2023-06-01",
+            "prenom_nom": "Baye Fallou Sene",
+            "age": 17,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Baye Fallou Sène est mort à la fleur de l'âge. Il avait 17 ans. Le 1er juin, sa curiosité le pousse à se soustraire à l'attention de sa maman pour aller observer les heurts entre policiers et manifestants aux Parcelles Assainies. Parti de l'Unité 16, il reçoit une balle en pleine poitrine au croisement 22. Il est évacué par une charrette à bord de laquelle il rendra l'âme selon son beau-frère. Face à la perte de son benjamin, la mère de Fallou préfère se draper d'une grande dignité et s'en remettre à Dieu. Elle garde l'heureux souvenir d'un enfant « calme, pudique et respectueux ». Élève au lycée Le Scientifique, le défunt rêvait de devenir footballeur professionnel. Aujourd'hui, Baye Fallou Sène repose dans la cité religieuse de Touba, au cimetière de Darou Salam.</p>",
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Unité 22 Parcelles Assainies",
+            "sexe": "M",
+            "photo_principale": "89e6cc24-d678-47cf-81b2-08b31994d82a",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.434984,
+                    14.753183
+                ]
+            },
+            "afficher_accueil": true,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 31,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.900Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-01",
+            "prenom_nom": "Sidya Diatta",
+            "age": 32,
+            "profession": "Agriculteur",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Quand Boubacar Diatta parle de son regretté petit frère, il se laisse volontiers aller aux confidences. Il raconte comment Sidya Diatta abhorrait les injustices, comment il était de toutes les batailles du parti Pastef dont il était militant depuis 2018, comment il était un soutien pour ses frères et sœurs. Sidya avait 32 ans. N'ayant pas trouvé d'emploi à la fin de ses études à l'Université Catholique de l’Afrique de l’Ouest (UCAO), il s'était lancé dans l'agriculture. Il est mort le 1er juin à Ziguinchor après avoir été atteint par balle comme l'a confirmé l'autopsie que sa famille n'a pu consulter que partiellement. « La police nous a empêchés de lire l'intégralité de l’autopsie », dénonce Boubacar Diatta. Les proches de Sidya Diatta disent être déterminés à obtenir justice.</p>",
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Ziguinchor",
+            "sexe": "M",
+            "photo_principale": "22763c21-d540-4e3f-92ef-ab4000be01ed",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.257533,
+                    12.566686
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 25,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.873Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-01",
+            "prenom_nom": "Seny Coly",
+            "age": 26,
+            "profession": "Boulanger",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Seny Coly résidait à Niary Tally et partait travailler dans une boulangerie des Parcelles Assainies lorsqu'il a été fauché par une balle à Liberté 6.</p>",
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Sicap Liberté 6",
+            "sexe": "M",
+            "photo_principale": "ed0120b1-e075-4017-add0-9676fb4a8f4c",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.408313,
+                    14.773188
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 30,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.895Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:45:43.764Z",
+            "date_mort": "2023-06-01",
+            "prenom_nom": "Omar Sarr",
+            "age": null,
+            "profession": "Maçon",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Omar Sarr est mort atteint d’une balle le 1er juin à Ziguinchor.</p>",
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Ziguinchor",
+            "sexe": "M",
+            "photo_principale": "6bb68e5b-e3dd-488a-910b-9b4f9cc267a0",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.292809,
+                    12.558978
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 44,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.965Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:43:43.704Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Anonyme",
+            "age": null,
+            "profession": null,
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Guediawaye",
+            "commune": "Hopital Dalal Jamm",
+            "sexe": null,
+            "photo_principale": "d32e0981-2547-43f7-b0fa-49b2bf486a13",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.408313,
+                    14.773188
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 37,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.930Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Malang Mané",
+            "age": null,
+            "profession": "Gendarme",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Malang Mané est mort dans le cadre d'une intervention lors des manifestations du 2 juin à Diamniadio. Ce gendarme surnommé \"Boss\" est originaire du village de Kagnobon dans le département de Bignona.</p>",
+            "region": "Dakar",
+            "departement": "Diamniadio",
+            "commune": "Diamniadio",
+            "sexe": "M",
+            "photo_principale": "677e1108-ce63-4a4e-bb0e-c0225aa3e6d4",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.180343,
+                    14.718185
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 40,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.945Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T17:05:37.799Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Ismaila Traoré",
+            "age": 28,
+            "profession": "Gardien, débrouillard à plusieurs métiers",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Tr&egrave;s t&ocirc;t, Ismaila Traor&eacute;, connu sous le sobriquet de \"Petit\", a &eacute;court&eacute; ses &eacute;tudes afin de subvenir aux besoins de sa famille. Toujours aux petits soins de sa m&egrave;re, c'est d'ailleurs cette derni&egrave;re qu'il accompagnait &agrave; l'h&ocirc;pital lorsqu'il a &eacute;t&eacute; touch&eacute; par balles &agrave; la t&ecirc;te sur le chemin du retour.&nbsp;</p>\n<p>\"Petit\" a succomb&eacute; aux balles qui cr&eacute;pitaient dans une ruelle de Guinaw Rails, terrain d'affrontements entre policiers et jeunes. &Acirc;g&eacute; de 28 ans, Ismaila &eacute;tait un jeune homme d&eacute;gourdi, touche &agrave; tout qui ne l&eacute;sinait pas sur les moyens pour satisfaire son entourage.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Guinaw Rails",
+            "sexe": "M",
+            "photo_principale": "60f07357-86b7-49b4-804a-ee9a8f01a21c",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.388379,
+                    14.745871
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": [
+                {
+                    "id": 4,
+                    "status": "draft",
+                    "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+                    "date_created": "2025-03-03T17:04:16.558Z",
+                    "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+                    "date_updated": "2025-03-04T05:24:07.732Z",
+                    "titre": "Guinaw Rails: Ismaël Traoré tué, sa mère inconsolable « Balle Laniouko Door Si Bop… »",
+                    "type": "youtube",
+                    "url_youtube": "https://www.youtube.com/watch?v=dswzcXxW6sQ",
+                    "victime": 40,
+                    "afficher_accueil": false,
+                    "date_publication": "2024-06-03T12:00:00"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.970Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T15:47:29.316Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Ibrahima Drago",
+            "age": 24,
+            "profession": "Ouvrier au port",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Ibrahima Drago a été tué par balles le 2 juin à Pikine.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Guinaw Rails Sud",
+            "sexe": "M",
+            "photo_principale": "9259973c-f8ff-4e47-9559-bc44f8eceed3",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.384711,
+                    14.744938
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 47,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.507Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Ousmane Badio",
+            "age": 17,
+            "profession": "Mécanicien",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Gorge nou&eacute;e, voix chevrotante &eacute;treinte par l'&eacute;motion, Adja Assima Gassama &eacute;gr&egrave;ne les nombreux souvenirs qui constellent sa m&eacute;moire et lui rappellent Ousmane Badio, son petit-fils brutalement arrach&eacute; &agrave; l'affection des siens le 1er juin 2023, date de la condamnation de l'opposant politique Ousmane Sonko.</p>\n<p><br>Si l'adolescent &eacute;tait connu pour son calme olympien, il n'en d&eacute;mordait pas quand il s'agissait de ses choix de vie. C'est ainsi que sa passion pour les motos et la m&eacute;canique le poussera &agrave; s'&eacute;carter, au grand dam de son p&egrave;re, des chemins traditionnels balis&eacute;s par l'&eacute;cole.</p>\n<p>Un pari pourtant gagnant puisque les premiers pas d'Ousmane dans l'univers rigoureux de la m&eacute;canique moto sont concluants au point de lui permettre de d&eacute;crocher un emploi dans un atelier environnant.<br>L&agrave;-bas, l'apprenti se perfectionne, il excelle, il gravit les &eacute;chelons et devient m&ecirc;me l'homme de confiance du patron qui n'h&eacute;site pas &agrave; lui confier les clefs des lieux.</p>\n<p>Une ascension brutalement bris&eacute;e par un tir mortel que la grand-m&egrave;re attribue aux forces de police qui, en ce premier jour du mois de juin, r&eacute;priment v&eacute;h&eacute;ment les manifestations dans le quartier de Korentas.&nbsp;<br>\"Ce jour-l&agrave;, apr&egrave;s avoir fait sa toilette, Ousmane est sorti pour rejoindre ses oncles et a&icirc;n&eacute;s afin de deviser dehors. Selon des t&eacute;moins, il a &eacute;t&eacute; atteint par le tir mortel d'un policier qui se trouvait en face de lui, peu de temps apr&egrave;s avoir pos&eacute; les pieds hors de la maison familiale.\" confie une Adja Assima r&eacute;sign&eacute;e.</p>\n<p>Il d&eacute;c&egrave;dera en cours d'&eacute;vacuation &agrave; l'h&ocirc;pital Silence au sein duquel sa grand-m&egrave;re retrouvera sa d&eacute;pouille.&nbsp;<br>Comme ultime geste d'amour, une caresse sur la t&ecirc;te de son petit Ousmane qui laisse derri&egrave;re lui une famille d&eacute;sabus&eacute;e.</p>\n<p>Le choc &eacute;motionnel fut tel qu'il rendit son p&egrave;re aphone et alit&eacute;.&nbsp; Une peine qui n'a d'&eacute;gal que la g&eacute;n&eacute;rosit&eacute; du d&eacute;funt.&nbsp;En t&eacute;moigne cette derni&egrave;re anecdote narr&eacute;e par la grand-m&egrave;re: \"La veille de son d&eacute;c&egrave;s, Ousmane a vid&eacute; son armoire de ses v&ecirc;tements et m'a demand&eacute; de les offrir aux autres\".<br>Acte curieux pour sa famille mais altruiste comme son auteur.</p>\n<p>Ousmane Badio avait 17 ans.&nbsp;Il &eacute;tait l'unique gar&ccedil;on d'une fratrie de deux enfants.</p>",
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Ziguinchor",
+            "sexe": "M",
+            "photo_principale": "50c168b7-9479-428d-8ec0-a615c0024762",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.271187,
+                    12.583562
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 43,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.959Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:43:34.212Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Anonyme",
+            "age": null,
+            "profession": null,
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Guediawaye",
+            "commune": "Hopital Dalal Jamm",
+            "sexe": null,
+            "photo_principale": "00e11033-b8a2-4b33-8e1f-5ec70c6ce606",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.408313,
+                    14.773188
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 39,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.938Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T16:01:50.445Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Bassirou Sarr",
+            "age": 31,
+            "profession": "Couturier",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Bassirou Sarr &eacute;tait un tailleur d&eacute;vou&eacute; &agrave; son quartier et &agrave; sa famille. Ce trentenaire que ses proches d&eacute;crivent comme disponible et g&eacute;n&eacute;reux s'en est all&eacute; apr&egrave;s une derni&egrave;re largesse &agrave; l'&eacute;gard de sa maman Mbada Diouf.</p>\n<p>Elle confie : &laquo; Le jour de son d&eacute;c&egrave;s il m'avait offert de l'argent. Il &eacute;tait d'un soutien ind&eacute;fectible. C'est tr&egrave;s douloureux de perdre son enfant dans ces circonstances &raquo;.</p>\n<p>Lamine Sarr, grand fr&egrave;re du d&eacute;funt, r&eacute;clame justice et souhaite que soit lev&eacute;e l'opacit&eacute; autour du d&eacute;c&egrave;s de Bassirou. Convaincu qu'un gendarme est responsable du tir mortel qui a &ocirc;t&eacute; la vie de son fr&egrave;re, il est confort&eacute; dans sa position par le t&eacute;moignage d'un ami de la famille qui a assist&eacute; &agrave; la mort du tailleur de 31 ans.&nbsp;Il raconte : &laquo; Nous &eacute;tions en train de manifester. Bassirou qui &eacute;tait tout juste derri&egrave;re moi a re&ccedil;u une balle d'un gendarme qui a point&eacute; son arme vers nous et tir&eacute; &raquo;.</p>\n<p>En attendant que la lumi&egrave;re soit faite, Guinaw Rails fait le deuil de son fils brutalement arrach&eacute; &agrave; son affection.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Guinaw Rails Nord",
+            "sexe": "M",
+            "photo_principale": "a290d2f8-0ca7-42dd-9950-531c7f5a02d2",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.378928,
+                    14.751768
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 32,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.905Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T15:28:19.199Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "El Hadj Mamadou Cissé",
+            "age": 26,
+            "profession": "Etudiant",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>L'annonce de sa mort a secou&eacute; la twittosph&egrave;re s&eacute;n&eacute;galaise. El Hadj Mamadou Ciss&eacute; y &eacute;tait connu sous le pseudonyme de \"Buur Joie\". D&egrave;s l'annonce du d&eacute;c&egrave;s de cet &eacute;tudiant en lettres modernes n&eacute; au quartier de l'&eacute;glise de Grand-Yoff , ses photos ont inond&eacute; la toile et d&eacute;li&eacute; les langues.</p>\n<p>Les t&eacute;moignages furent unanimes quant &agrave; sa bont&eacute; et sa pi&eacute;t&eacute;. C'est d'ailleurs en revenant de la mosqu&eacute;e qu'il a &eacute;t&eacute; touch&eacute; par une balle &agrave; l'&eacute;paule.</p>\n<p>Son fr&egrave;re Djimbal Ba raconte que face &agrave; la fermeture de la mosqu&eacute;e qu'il avait l'habitude de fr&eacute;quenter, Mamadou s'est rendu dans une autre mosqu&eacute;e situ&eacute;e derri&egrave;re sa maison. Sur le chemin du retour il sera pris au pi&egrave;ge des tirs qui faisaient rage.</p>\n<p>Il rendit l'&acirc;me &agrave; l'h&ocirc;pital Idrissa Pouye o&ugrave; il fut achemin&eacute;. Une immense foule l'a accompagn&eacute; &agrave; sa derni&egrave;re demeure &agrave; travers un cort&egrave;ge coordonn&eacute; de bout en bout par les jeunes chr&eacute;tiens de l'&Eacute;glise Saint Paul. El Hadj Mamadou Ciss&eacute; devait se rendre au Canada en ao&ucirc;t afin d'y poursuivre ses &eacute;tudes.</p>",
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Grand Yoff",
+            "sexe": "M",
+            "photo_principale": "da59995c-dbd8-4667-ac70-364816a2f4cf",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.4489603,
+                    14.7394007
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": [
+                {
+                    "id": 8,
+                    "status": "published",
+                    "user_created": "0362b822-0011-4b93-b051-7e4422debf5a",
+                    "date_created": "2025-03-04T06:16:24.607Z",
+                    "user_updated": null,
+                    "date_updated": null,
+                    "titre": "« Pourquoi nos frères hommes de tenue nous tuent ? » El Hadj Mamadou Cissé, ange parti trop tôt",
+                    "type": "youtube",
+                    "url_youtube": "https://youtu.be/qIziw0T6PDw",
+                    "victime": 32,
+                    "afficher_accueil": true,
+                    "date_publication": "2025-03-04T06:16:00"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.934Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T15:58:45.472Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Lassana Diarisso",
+            "age": 21,
+            "profession": "Livreur",
+            "cause_mort": "Mort après tortures",
+            "presentation": "<p>Le corps sans vie de Lassana Diarisso a été retrouvé le vendredi 2 juin. Lass etait très connu. Des jeunes l’ont reconnu et ont appelé Makha, son frère à l’arrêt Keur Mbaye Fall du Train Express Régional (TER). Ce vendredi, alors qu’il était parti garer sa voiture afin de la préserver d’éventuels actes de vandalisme, il a été percuté, sur le chemin du retour, par un véhicule de gendarmerie, raconte un de ses proches. Amoché, il a ensuite été emmené par des gendarmes de la Légion de gendarmerie d'intervention de Mbao qui l’ont conduit dans la brigade du TER de Keur Mbaye Fall selon des témoins. Ses proches affirment qu’il a subi des sévices. « Nous avons tenté de le récupérer à deux reprises des mains des gendarmes qui nous ont opposé un refus catégorique », raconte son frère qui confie que les cris d’agonie du défunt résonnent encore dans sa tête. Le corps sans vie de Lassana Diarisso a finalement été remis à son père à l’arrêt du TER de sa commune.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Mbao",
+            "sexe": "M",
+            "photo_principale": "d4ec66fb-4467-4760-93d3-855a01fc8a2c",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3132,
+                    14.744403
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 42,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.955Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:43:28.787Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Anonyme",
+            "age": null,
+            "profession": null,
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Guediawaye",
+            "commune": "Hopital Dalal Jamm",
+            "sexe": null,
+            "photo_principale": "824659ef-6d17-493e-b549-32831f4fb638",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.408313,
+                    14.773188
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 41,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.949Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:43:20.793Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Anonyme",
+            "age": null,
+            "profession": null,
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Guediawaye",
+            "commune": "Hopital Dalal Jamm",
+            "sexe": null,
+            "photo_principale": "874bba42-655e-400f-83d4-15b4cf001d76",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.408313,
+                    14.773188
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 33,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.910Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Tamsir Cissé",
+            "age": null,
+            "profession": "Commerçant",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Tamsir Cissé est mort atteint d’une balle le 2 juin à Dakar.</p>",
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Unité 5 Golf Sud",
+            "sexe": "M",
+            "photo_principale": "a2f8c304-a840-4b8f-8366-75d3c2d1edaf",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.428176,
+                    14.762183
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 36,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.925Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Serigne Fallou Sall",
+            "age": 17,
+            "profession": "Ouvrier-ferrailleur",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Serigne Fallou Sall n’aura jamais atteint le domicile familial. De retour d’un déjeuner chez son oncle, le jeune ouvrier-ferrailleur de 17 ans est touché par balle le 2 juin aux alentours de 19h à Thiaroye. Il ne sera évacué à bord d’une ambulance qu’à 2h du matin, puis ballotté entre les hôpitaux du camp de Thiaroye et de Fann. <br><br>La mort de Serigne Fallou Sall est une illustration limpide des défaillances qui peuvent accompagner les prises en charge médicales d’urgence au Sénégal.<br><br>A l’hôpital de Fann, où Fallou sera reçu le 3 juin, sa famille révèle qu’il ne recevra pas les soins escomptés. Une double peine pour le père du défunt, Assane Sall. Il dénonce : « En plus d’avoir reçu une balle, mon fils a dû se la coltiner dans le corps pendant presque 24h sans qu’elle ne soit extraite par les équipes médicales. Un adulte n’aurait jamais pu supporter une telle épreuve, a fortiori un mineur ». <br><br>Malgré la douleur, Assane Sall lance un appel clairvoyant aux autorités sénégalaises qu’il invite à améliorer le plateau médical et assurer la sécurité des citoyens.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Thiaroye sur Mer",
+            "sexe": "M",
+            "photo_principale": "f921a3f5-0462-48b1-b120-07952f70e2f8",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.373063,
+                    14.746313
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 35,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.920Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Bacary Diémé",
+            "age": 27,
+            "profession": "Peintre pour automobile",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Fils unique, Bacary Diémé, peintre pour automobile de 27 ans, est mort le 2 juin après avoir été touché par balle lors des manifestations. Il a rendu l’âme après son évacuation à l'hôpital de Pikine, dans la banlieue de Dakar. L’annonce de sa mort a drainé du monde dans la maison familiale, sise à Diamaguène, un quartier de la banlieue dakaroise. Le défunt, né à Bignona, dans la région de Ziguinchor dans le sud du Sénégal, était connu pour son sens du respect, témoigne son cousin Bacary Badji. Il rappelle que ce dernier n’était affilié à aucun parti politique. Face à ce drame qui les touche, la famille Diémé s'en remet à Dieu.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Thiaroye (Tableau Tivaouane)",
+            "sexe": "M",
+            "photo_principale": "2f9a4590-0af8-4b48-acb8-81542f976597",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.373063,
+                    14.746313
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 46,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.438Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Mamadou Ndoye",
+            "age": 53,
+            "profession": "Sans emploi",
+            "cause_mort": "Percuté par un véhicule de police",
+            "presentation": "<p>Mamadou Ndoye, sans emploi, souffrait d'une déficience mentale. Il est mort après avoir été percuté par un véhicule de police à Bargny. Il ne manifestait pas mais était présent sur les lieux. A Bargny, tout le monde savait que cet habitant de Ndal Dally avait l'habitude de fréquenter les abords du commissariat, zone des manifestations où il rendra l'âme après le choc.</p>",
+            "region": "Dakar",
+            "departement": "Rufisque",
+            "commune": "Bargny",
+            "sexe": "M",
+            "photo_principale": "d04b4cb0-f1fa-4956-a4b0-235f97486adf",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.228615,
+                    14.691074
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 48,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.535Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T16:39:51.099Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Souleymane Sano",
+            "age": 25,
+            "profession": "Sans emploi fixe",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>&Acirc;g&eacute; de 25 ans, Souleymane Sano a &eacute;t&eacute; tu&eacute; par balles lors des affrontements du 2 juin &agrave; Ziguinchor.</p>\n<p>&laquo; Il est mort dans mes bras &raquo;, raconte son ami qui dit avoir aper&ccedil;u le tireur, un policier. Souleymane habitait Lyndiane, un quartier ziguinchorois.</p>",
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Lyndiane",
+            "sexe": "M",
+            "photo_principale": "2679592b-ac2e-4599-a319-5343f88c00ea",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.291008,
+                    12.564504
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 34,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-01T20:35:35.915Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Mamadou Moustapha Gueye",
+            "age": 44,
+            "profession": "Réalisateur-cinéaste",
+            "cause_mort": "Mort par crise d'asthme",
+            "presentation": "<p>Mamadou Moustapha Guèye était réalisateur et cinéaste. Le 2 juin, après une longue journée de travail, il emprunte le chemin du retour pour rallier son domicile. Il regagne alors un quartier baignant dans un chaos monstre. En effet, à l'Unité 24 des Parcelles Assainies, policiers et manifestants s'opposent âprement. Pour disperser la foule, les forces de l'ordre usent de gaz lacrymogènes qui rendent l'air irrespirable. Une atmosphère étouffante qui aura eu raison de Mamadou, asthmatique depuis le bas âge. Après avoir piqué une crise d'asthme, Mamadou Moustapha Gueye, surnommé \"Sounou\", a rendu l'âme pendant son évacuation à l'hôpital Général Idrissa Pouye de Grand Yoff. Sounou laisse derrière lui une famille accablée par le chagrin et un monde du cinéma endeuillé par sa perte. Ses collègues et amis se souviennent de « son exemplarité, son dévouement envers les gens et sa gentillesse ». Une générosité qui manquera à ses étudiants de Ciné Banlieue auxquels il dispensait gratuitement des formations afin de leur mettre le pied à l'étrier. Âgé de 44 ans, Sounou mûrissait de nombreux projets audiovisuels parmi lesquels un documentaire sur les cimetières. Triste clin d'œil du destin.</p>",
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Unité 24, Parcelles Assainies",
+            "sexe": "M",
+            "photo_principale": "cf748300-3b6b-4a08-a527-2cd5063a9c8a",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.447575,
+                    14.754991
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 49,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.545Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-02",
+            "prenom_nom": "Modou Beye",
+            "age": 25,
+            "profession": "Pêcheur",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Modou Beye, pêcheur de 25 ans, était au Cap Skirring où il est mort après avoir reçu une balle pendant les manifestations.</p>",
+            "region": "Ziguinchor",
+            "departement": "Oussouye",
+            "commune": "Cap Skirring",
+            "sexe": "M",
+            "photo_principale": "64a47d1f-a7bb-4347-bda3-7c092db4ed26",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.712813,
+                    12.363894
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 51,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.569Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-06-03",
+            "prenom_nom": "Doudou Diene",
+            "age": 34,
+            "profession": "Aviculteur",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Comme &agrave; son habitude, Doudou Diene dit \"Petit\" revenait de son poulailler &agrave; Guinaw Rails avant d'&ecirc;tre touch&eacute; par deux balles &agrave; Bargny. Promettant de revenir, il avait fait faire du caf&eacute; &agrave; l'&eacute;pouse de son fr&egrave;re.</p>\n<p>Malheureusement, la derni&egrave;re fois que la voix de celui qui animait la maison des Diene sera entendue, ce sera pour demander pardon &agrave; son p&egrave;re et sa m&egrave;re, au t&eacute;l&eacute;phone. Il rendra l'&acirc;me au matin du samedi apr&egrave;s une intervention chirurgicale &agrave; l'h&ocirc;pital Idrissa Pouye de Grand Yoff sans espoir diront les m&eacute;decins &agrave; ses proches: &laquo; La balle avait fait trop de d&eacute;g&acirc;ts &raquo;, confie son p&egrave;re.</p>\n<p>Petit Diene &eacute;tait &acirc;g&eacute; de 34 ans, &eacute;poux et p&egrave;re d'un b&eacute;b&eacute; dont il a f&ecirc;t&eacute; le premier anniversaire il y a un mois.</p>",
+            "region": "Dakar",
+            "departement": "Rufisque",
+            "commune": "Bargny",
+            "sexe": "M",
+            "photo_principale": "46a43293-f61c-4b5a-8975-fa7bd4afa52a",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.227067,
+                    14.694928
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": [
+                {
+                    "id": 10,
+                    "status": "published",
+                    "user_created": "0362b822-0011-4b93-b051-7e4422debf5a",
+                    "date_created": "2025-03-04T06:32:15.057Z",
+                    "user_updated": null,
+                    "date_updated": null,
+                    "titre": "Les derniers moments de Doudou Diène, victime des évènements de Juin",
+                    "type": "youtube",
+                    "url_youtube": "https://youtu.be/yGgc_GyR23o",
+                    "victime": 51,
+                    "afficher_accueil": false,
+                    "date_publication": "2025-03-04T06:32:15"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.558Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-04T11:42:48.565Z",
+            "date_mort": "2023-06-03",
+            "prenom_nom": "Abdoulaye Kamara dit \"Baba Kana\"",
+            "age": 38,
+            "profession": "Rappeur",
+            "cause_mort": "Mort par balle et mauvais traitement",
+            "presentation": "<p>Sa derni&egrave;re vid&eacute;o post&eacute;e sur son compte Tik Tok a des allures de testament. En halpulaar, langue d'expression de son art, le rappeur Abdoulaye Kamara y faisait un vibrant plaidoyer contre l'injustice et invitait ses pairs artistes, les dignitaires religieux, les sportifs et autres porteurs de voix &agrave; se prononcer contre les abus pos&eacute;s par le pouvoir. Un dernier message frapp&eacute; du sceau de l'engagement, leitmotiv de la vie du d&eacute;funt qui arpentait les sc&egrave;nes sous le nom de Baba Kana.</p>\n<p>Abdoulaye Kamara est mort le 3 juin &agrave; Niary Tally. Ce jour-l&agrave;, vers 18h, il se rend chez un ami aux HLM. Sur le chemin du retour, il croise des forces de l'ordre aux prises avec des manifestants. En voulant traverser ce tohu-bohu indescriptible, il est atteint par balle. En atteste l'autopsie dont fait &eacute;tat un communiqu&eacute; publi&eacute; par la famille: &laquo; d&eacute;c&egrave;s par suite de blessure abdominale par arme &agrave; feu &raquo;.</p>\n<p>Les images de son corps emport&eacute; et malmen&eacute; par les forces de l'ordre ont fait le tour des r&eacute;seaux sociaux. On l'y voit recevoir un coup de fusil et des coups de pied de la part des policiers. La famille ne parviendra &agrave; r&eacute;cup&eacute;rer le corps de leur fils que deux jours plus tard apr&egrave;s moults p&eacute;r&eacute;grinations entre commissariats et h&ocirc;pitaux dakarois. Elle annonce vouloir porter plainte.</p>\n<p>Abdoulaye Kamara dit Baba Kana repose &agrave; Boinodji (Matam), au terme de sa 38&egrave;me ann&eacute;e.</p>",
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Niary Tally",
+            "sexe": "M",
+            "photo_principale": "e7b1a0f6-b030-4ac9-9978-27e40ba95bdb",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.451251,
+                    14.702928
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": [
+                {
+                    "id": 9,
+                    "status": "published",
+                    "user_created": "0362b822-0011-4b93-b051-7e4422debf5a",
+                    "date_created": "2025-03-04T06:31:36.210Z",
+                    "user_updated": null,
+                    "date_updated": null,
+                    "titre": "\"S'il n'y avait pas cette vidéo, l'histoire serait toute autre\": Baba Kana raconté par ses proches",
+                    "type": "youtube",
+                    "url_youtube": "https://youtu.be/wy7D2qYHqi8",
+                    "victime": 50,
+                    "afficher_accueil": true,
+                    "date_publication": "2025-03-04T06:31:35"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.576Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T15:03:36.956Z",
+            "date_mort": "2023-06-04",
+            "prenom_nom": "Amadou Harouna Tall",
+            "age": 44,
+            "profession": "Jakartaman",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Mamadou Tall, sénégalo-mauritanien, a été touché par une balle perdue au poumon gauche alors qu’il se trouvait dans sa chambre entre le 4 et le 5 juin. A Ziguinchor, dans le sud du Sénégal, certains pensent même que Mamadou Tall a été touché pendant qu’il priait. « Personne ne sait ce qu’il faisait, lance ce proche qui souhaite garder l’anonymat. Ce qui est sûr, c’est qu’il était chez lui ». Il y a bien un trou dans le volet métallique extérieur de sa maisonnette située dans le quartier de Néma 2. A l’intérieur de ce deux-pièces d’un grand dénuement, sans luminaire, du sang séché macule la dalle en béton, noirci par endroits par la chaleur de la Casamance. Rien n’a été touché depuis la funeste nuit : son matelas, ses claquettes, ses habits jetés sur une valise rose, ses mégots, son « jakarta » (surnom donné aux motos-taxis) ou encore ses téléphones sont toujours là [in Le Monde, 12 juin 2023].</p>",
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Néma 2",
+            "sexe": "M",
+            "photo_principale": "5f7024fb-f70b-424b-9e00-d9b618dfb095",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.287736,
+                    12.561679
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 53,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.586Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-07-07",
+            "prenom_nom": "Ousmane Dia",
+            "age": 26,
+            "profession": "Vendeur de journaux",
+            "cause_mort": "Mort à la suite d'une détresse respiratoire",
+            "presentation": "<p>Ousmane Dia est mort dans la maison d&rsquo;arr&ecirc;t et de correction de Mbour des suites d&rsquo;une cha&icirc;ne de n&eacute;gligences de l&rsquo;Etat selon sa famille.</p>\n<p>La descente aux enfers de ce vendeur de journaux commence le 30 Mai 2023, date &agrave; laquelle la gendarmerie de Nguekokh est prise d&rsquo;assaut par des manifestants. Nous sommes la veille de la condamnation de l'opposant politique Ousmane Sonko. Pour disperser la foule, les gendarmes tirent des munitions.</p>\n<p>Ousmane Dia sera touch&eacute; &agrave; la cuisse gauche par une balle en caoutchouc. Sorti de chez lui pour aller acheter &agrave; manger, le jeune homme de 25 ans a &eacute;t&eacute; attir&eacute; sur les lieux du drame par la clameur issue des affrontements entre population et forces de l&rsquo;ordre. S&rsquo;ensuit une convalescence qui sera abruptement abr&eacute;g&eacute;e quelques jours plus tard par des gendarmes qui, sur ordre du procureur, l&rsquo;emm&egrave;nent &agrave; la brigade de recherches de Saly pour les besoins de l&rsquo;enqu&ecirc;te sur les manifestations du 30 mai.</p>\n<p>Malgr&eacute; son infirmit&eacute;, sa nature &eacute;pileptique et sa sant&eacute; chancelante attest&eacute;es par des ordonnances et un certificat m&eacute;dical apport&eacute;s par la famille, Ousmane Dia est plac&eacute; en d&eacute;tention.<br>Pire, il est emp&ecirc;ch&eacute; d&rsquo;avoir acc&egrave;s &agrave; ses m&eacute;dicaments contre l&rsquo;&eacute;pilepsie.</p>\n<p>Salimata Thiam, m&egrave;re du d&eacute;funt, d&eacute;nonce: &laquo; Ils ne m&rsquo;ont pas permis de lui donner ses m&eacute;dicaments. Je leur ai pr&eacute;sent&eacute; un certificat m&eacute;dical mais le juge a d&eacute;cid&eacute; que seuls les m&eacute;decins d&eacute;di&eacute;s avaient la pr&eacute;rogative de cautionner l&rsquo;entr&eacute;e de ces m&eacute;dicaments apr&egrave;s s&rsquo;&ecirc;tre assur&eacute; de son &eacute;tat de sant&eacute;. &raquo;<br>Le 7 juillet, alors qu&rsquo;elle se rend &agrave; la Mac de Mbour pour y voir son fils, Salimata Thiam est surprise d&rsquo;apprendre dans un premier temps qu&rsquo;il a &eacute;t&eacute; achemin&eacute; &agrave; l&rsquo;h&ocirc;pital.</p>\n<p>Puis elle est inform&eacute;e du d&eacute;c&egrave;s de son gar&ccedil;on. &laquo; Ousmane est malade, on l&rsquo;a amen&eacute; &agrave; l&rsquo;h&ocirc;pital et il a fini par d&eacute;c&eacute;der l&agrave;-bas. &raquo; lui dit-on.&nbsp;La m&egrave;re &eacute;plor&eacute;e conteste cette version et affirme que son fils est mort dans la prison.&nbsp;D&eacute;poss&eacute;d&eacute; de ses m&eacute;dicaments, Ousmane Dia a encha&icirc;n&eacute; les crises d&rsquo;&eacute;pilepsie dans sa cellule.<br>Le t&eacute;moignage du major de la prison qui confirme l&rsquo;avoir vu piquer deux crises est corrobor&eacute; par le rapport du m&eacute;decin l&eacute;giste qui mentionne deux crises convulsives la veille et une heure trente avant le &laquo; constat de d&eacute;c&egrave;s &raquo; aux Urgences de l&rsquo;h&ocirc;pital.</p>\n<p>Le 9 juillet, l&rsquo;administration p&eacute;nitentiaire invite la famille du d&eacute;funt &agrave; assister &agrave; l&rsquo;autopsie du corps. Les r&eacute;sultats indiquent une mort par &eacute;touffement suite &agrave; sa crise.<br>Le procureur Elias Abdoulaye Diop abonde dans le m&ecirc;me sens: &laquo; La mort est li&eacute;e &agrave; une d&eacute;tresse respiratoire aigu&euml; &raquo; clame t-il.&nbsp;Lui qui, onze jours avant la mort d&rsquo;Ousmane, avait ordonn&eacute; son arrestation et demand&eacute; qu&rsquo;il soit envoy&eacute; en prison malgr&eacute; son &eacute;tat de sant&eacute; alarmant.</p>",
+            "region": "Thiès",
+            "departement": "Mbour",
+            "commune": "Mbour",
+            "sexe": "M",
+            "photo_principale": "7bfe1148-84ef-4a3d-932a-671fb1314a84",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.965294,
+                    14.405825
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 55,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.622Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:46:59.764Z",
+            "date_mort": "2023-07-31",
+            "prenom_nom": "Moustapha Badji",
+            "age": 40,
+            "profession": "Taximan",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Dans la concession familiale des Badji, les visages sont hagards et creusés par la tristesse. Un silence de cathédrale, parfois fendu par de douloureux cris stridents, s'est emparé des lieux. Parents, famille et amis font le deuil du regretté Moustapha Badji, 40 ans, mort le 31 juillet lors des manifestations qui ont suivi le placement sous mandat de dépôt de l'opposant politique Ousmane Sonko. Assis sur une chaise au milieu de la cour, Babacar Badji rumine sa colère. Dans la poche de son pantalon, une douille qu'il brandit non sans amertume: « Cette douille provient de la balle qui l'a touché. » assène t-il avec dépit. Le grand frère atterré se repasse les images de ce jour fatidique où il a appris la mort de Tapha. Il raconte qu'ensemble, ils ont assisté à la cérémonie funéraire du septième jour d'un défunt voisin. Cérémonie que son frère a par la suite quitté pour aller déjeuner à la maison familiale, avant de se rendre aux manifestations. Quelques instants plus tard Babacar voient des jeunes qui accourent vers lui et lui annoncent que son frère a été touché par balle. Il s’empresse alors de rejoindre le poste de santé de Kandé où il trouve le corps sans vie de son petit frère. Un dénouement tragique pour Tapha, ancien militaire qui était venu passer la fête de Tabaski à Ziguinchor et qui s'apprêtait à regagner Dakar où il exerçait en tant que chauffeur de taxi et dont le retour à Dakar avait été diffèré afin d'assister au baptême du nouveau-né de Babacar. Cette dernière amabilité est à l'image du personnage unanimement loué pour son altruisme confirmé par la mère du défunt. Entre deux sanglots, Mariama Sagna rabat son voile blanc sur son visage afin de sécher ses larmes abondantes. Cette épreuve du deuil lui est familière. Elle lui rappelle de mauvais souvenirs. Elle qui a déjà enterré quatre garçons. « Moustapha est le cinquième fils que je porte sous terre. Je m'accroche à Dieu et me soumets à la volonté divine mais ma vie n'a plus de sens. Mon séjour terrestre n'a plus de raison d'être » confesse la mère éplorée. El Hadj Mané, un autre proche du défunt, réclame justice afin que toutes les responsabilités soient situées et que les acteurs de ce drame soient sanctionnés. Moustapha Badji avait deux jeunes enfants: un fils âgé de cinq ans et une petite fille de trois ans.</p>",
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Ziguinchor",
+            "sexe": "M",
+            "photo_principale": "060e7178-6c59-4c88-b0f8-df9ed52cc394",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.257388,
+                    12.567069
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 54,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.607Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:46:35.302Z",
+            "date_mort": "2023-07-31",
+            "prenom_nom": "Modou Kanté",
+            "age": 24,
+            "profession": "Maçon",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Modou Kanté, 24 ans, maçon de son état qui décide malgré tout de se rendre sur son lieu de travail, un chantier situé dans le quartier de Grand-Dakar à Ziguinchor. Mais c’est peine perdue pour le jeune homme, qui est congédié pour la journée, en raison d'un début de manifestation. Modou décide alors de passer l'après-midi en compagnie de ses amis. Lorsque la nouvelle du placement d’Ousmane Sonko sous mandat de dépôt tombe, des protestations éclatent sur toute l'étendue du territoire national. Ziguinchor n'est pas en reste. À Néma Kadior, près du domicile du chef de file du Pastef, l'ambiance est tendue. Vers 16h, un dispositif de sécurité important mêlant policiers, gendarmes et militaires y est déployé. À 17h, Edouard Diatta reçoit un appel téléphonique d'un ami de Modou l'informant que ce dernier a été évacué à l'hôpital régional à la suite d'une blessure par balle reçue à la poitrine. Pris de court, il enjoint son épouse Ami Collé de se rendre au chevet de leur fils avant de s'écrouler de douleur. Une heure après son arrivée à l'hôpital, la mère de Modou est avisée du décès de celui qui était l'unique garçon de la fraterie. Le défunt, qui s'était joint aux manifestations avec ses amis, laisse derrière lui une famille endeuillée et des voisins chagrinés dans le quartier Château d'eau où il habitait. « Modou était affable et courtois. Il avait toujours un mot bienveillant pour les uns et taquinait les autres, à l’instar du jour de son décès, comme s'il nous faisait ses adieux... il avait toujours le sourire aux lèvres et ne répondait jamais aux provocations quitte à passer pour un poltron. » témoigne Khady Dieme, une voisine de la famille Diatta. Des qualités confirmées par le papa de Modou qui se remémore son fils, un homme de paix, réputé sans histoire. Modou était un passionné de football. Il fut gardien de l’association sportive et culturelle de Ziguinchor. Sa famille réclame justice.</p>",
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Ziguinchor",
+            "sexe": "M",
+            "photo_principale": "774fbcf7-39b1-4def-bafb-cd6ad325a213",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.264683,
+                    12.563605
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 56,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.630Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2023-07-31",
+            "prenom_nom": "Bara Ba",
+            "age": 25,
+            "profession": "Réparateur de machines à coudre",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Dans une vid&eacute;o devenue virale sur les r&eacute;seaux sociaux s&eacute;n&eacute;galais, Bara Ba, v&ecirc;tu d&rsquo;un maillot de l&rsquo;&eacute;quipe nationale et d&rsquo;un pantalon noir fr&eacute;tille de joie. Apr&egrave;s avoir fait le pied de grue devant le domicile du leader politique Ousmane Sonko, le jeune de 25 ans improvise un talisman compos&eacute; d'eau et de sable recueilli tout pr&egrave;s de la r&eacute;sidence de l'opposant. La mixture contenue dans une bouteille en plastique lui servira de protection, confie t-il &agrave; la cam&eacute;ra.</p>\n<p>Une pr&eacute;caution teint&eacute;e d'amour et de d&eacute;votion qui s'av&eacute;rera vaine puisque Bara Ba trouvera tragiquement la mort le 31 juillet 2023, tu&eacute; par une balle lors des manifestations qui ont embras&eacute;es Pikine suite &agrave; l&rsquo;incarc&eacute;ration d&rsquo;Ousmane Sonko.&nbsp;Triste fin pour celui dont l&rsquo;ardeur militante est encore sur toutes les bouches.</p>\n<p>&laquo; Bara croyait dur comme fer aux id&eacute;aux du Pastef. Il est mort pour ses id&eacute;es. Jamais je ne l&rsquo;aurais emp&ecirc;ch&eacute; de manifester pour ses convictions car je sais qu'il &eacute;tait un homme de principes. &raquo; affirme sa m&egrave;re, digne dans l&rsquo;&eacute;preuve et reconnaissante d&rsquo;avoir eu un fils &laquo; p&eacute;tri de valeurs &raquo;.</p>\n<p>M&ecirc;me son de cloche chez Joe Mansour Niang, grand-p&egrave;re maternel du d&eacute;funt qui se rem&eacute;more de Bara tel une pile &eacute;lectrique: &laquo; il d&eacute;bordait d&rsquo;&eacute;nergie et allait souvent en manifestation quand l&rsquo;occasion se pr&eacute;sentait &raquo; t&eacute;moigne t-il.</p>\n<p>Un engagement qui l&rsquo;avait d&rsquo;ailleurs conduit &agrave; assurer le gardiennage des clefs du si&egrave;ge de Pastef &agrave; Pikine-est en plus de ses activit&eacute;s de r&eacute;parateur de machines &agrave; coudre. Bara Ba est mort des suites d&rsquo;une &laquo; plaie abdomino thoracique transfixiante par arme &agrave; feu &raquo; selon le certificat de mort produit le 02 Ao&ucirc;t. Il repose aujourd'hui &agrave; Touba, sa ville natale.</p>",
+            "region": "Dakar",
+            "departement": "Pikine",
+            "commune": "Pikine Ouest",
+            "sexe": "M",
+            "photo_principale": "b805a530-7601-4cf0-9be4-4ef4a42eb1b4",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.397862,
+                    14.756924
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 57,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.638Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:50:50.271Z",
+            "date_mort": "2023-08-01",
+            "prenom_nom": "Mamadou Saliou Diallo",
+            "age": 43,
+            "profession": "Commerçant",
+            "cause_mort": "Raison inconnue",
+            "presentation": null,
+            "region": "Kolda",
+            "departement": "Vélingara",
+            "commune": "Diaobé",
+            "sexe": "M",
+            "photo_principale": "e3f19df7-9de7-46ad-84f6-bd7b56e53070",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -14.154497,
+                    12.913553
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 58,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.645Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T15:47:13.251Z",
+            "date_mort": "2023-08-04",
+            "prenom_nom": "Thierno Dahaba",
+            "age": 21,
+            "profession": "Jakartaman",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Boucotte Sud",
+            "sexe": "M",
+            "photo_principale": "e29ee7c4-e3b4-47b0-a50f-08ef699da9f5",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.283233,
+                    12.564672
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 59,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.653Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2024-02-09",
+            "prenom_nom": "Alpha Yoro Tounkara",
+            "age": 22,
+            "profession": "Etudiant",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Saint-Louis",
+            "departement": "Saint-Louis",
+            "commune": "Gandon",
+            "sexe": "M",
+            "photo_principale": "58f26439-c5a1-4ca1-8786-3047e8bbb380",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.421621,
+                    16.060374
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 60,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T05:45:05.661Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2024-02-10",
+            "prenom_nom": "Landing Diédhiou",
+            "age": 17,
+            "profession": "Elève",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Ziguinchor",
+            "departement": "Ziguinchor",
+            "commune": "Ziguinchor",
+            "sexe": "M",
+            "photo_principale": "72c793ba-afe3-4903-81a1-3da3581c20c2",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.291246,
+                    12.559029
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 61,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T07:11:07.147Z",
+            "user_updated": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_updated": "2025-03-03T11:16:07.990Z",
+            "date_mort": "2024-02-10",
+            "prenom_nom": "Modou Guèye",
+            "age": 23,
+            "profession": "Commerçant",
+            "cause_mort": "Mort par balle",
+            "presentation": "<p>Vendredi 9 f&eacute;vrier 2024, Modou Gu&eacute;ye, r&eacute;sident de Pikine Guinaw-Rails Sud, re&ccedil;oit une balle dans l&rsquo;abdomen, alors qu&rsquo;il s&rsquo;appr&ecirc;tait &agrave; prendre le Train Express R&eacute;gional (TER) &agrave; hauteur de la gare de Colobane.</p>\n<p>En ce jour de rassemblement pr&eacute;vu &agrave; la Place de la Nation contre le report de la pr&eacute;sidentielle de f&eacute;vrier 2024, son seul tort &eacute;tait de vouloir &eacute;couler sa marchandise : un stock d&rsquo;invendus de maillots de l&rsquo;&eacute;quipe nationale du S&eacute;n&eacute;gal que ce commer&ccedil;ant avait acquis, lors de la coupe d&rsquo;Afrique des Nations, marqu&eacute;e par une &eacute;limination pr&eacute;matur&eacute;e des Lions.</p>\n<p>&nbsp;&laquo; Pendant les manifestations, les participants veulent toujours s&rsquo;afficher avec les couleurs de la Nation, c&rsquo;est pourquoi apr&egrave;s la pri&egrave;re de vendredi, nous nous y sommes rendus pour en profiter &raquo;, raconte son fr&egrave;re Mame Dame, t&eacute;moin de la sc&egrave;ne.</p>\n<p>Malheureusement, &agrave; leur arriv&eacute;e &agrave; Colobane, les forces de l&rsquo;ordre ont d&eacute;j&agrave; pris possession des lieux. Les tirs de grenades lacrymog&egrave;nes fusent alors de toute part. Pris de panique, Modou et son fr&egrave;re se perdent de vue un instant avant de se retrouver &agrave; proximit&eacute; de la gare du TER. C&rsquo;est l&agrave; que Modou Gu&eacute;ye re&ccedil;oit une balle.</p>\n<p>&nbsp;&laquo; Celui qui a tir&eacute; sur mon fr&egrave;re est un gendarme en tenue &raquo;, affirme Mame Dame. Transport&eacute; en urgence &agrave; l&rsquo;h&ocirc;pital Principal de Dakar, l&rsquo;&eacute;tablissement de sant&eacute; militaire refuse dans un premier temps de prendre en charge le bless&eacute; dans ses locaux. Puis, apr&egrave;s trois op&eacute;rations, Modou Gu&eacute;ye succombe &agrave; ses blessures, le lendemain, samedi 10 f&eacute;vrier, &agrave; 7h45.</p>\n<p>Dans le certificat de mort, il est mentionn&eacute; qu&rsquo;il a subi, &laquo; un traumatisme thoraco-abdominal par arme &agrave; feu avec l'&eacute;clatement du foie, ayant entra&icirc;n&eacute; un choc h&eacute;morragique r&eacute;fractaire malgr&eacute; les moyens chirurgicaux et d'embolisation. &raquo; Modou Gu&egrave;ye repose au cimeti&egrave;re de Touba.</p>",
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Colobane",
+            "sexe": "M",
+            "photo_principale": "2cee9053-0f6d-410f-874d-9e3858670d64",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.441981,
+                    14.699998
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 62,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T07:11:07.159Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:47:48.744Z",
+            "date_mort": "2024-02-21",
+            "prenom_nom": "Prosper Clédor Senghor",
+            "age": 22,
+            "profession": "Etudiant",
+            "cause_mort": "Atteint par une grenade lacrymogène",
+            "presentation": null,
+            "region": "Saint-Louis",
+            "departement": "Saint-Louis",
+            "commune": "Gandon",
+            "sexe": "M",
+            "photo_principale": "ff90a0f2-3f1f-4a6f-811f-c9abeab886da",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -16.421621,
+                    16.060374
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 65,
+            "status": "published",
+            "user_created": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_created": "2025-03-03T13:52:33.790Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-04T01:15:56.942Z",
+            "date_mort": "2024-02-29",
+            "prenom_nom": "Baytir Fall dit \"Elhadji Fall\"",
+            "age": 50,
+            "profession": "Plongeur sous-marin",
+            "cause_mort": "Mort après tortures",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Ngor",
+            "sexe": "M",
+            "photo_principale": "3289f6db-3dab-4788-82fc-d0480ff515f2",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.5135698048891,
+                    14.74891310544939
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        },
+        {
+            "id": 63,
+            "status": "published",
+            "user_created": "29fe5298-f2bd-42c5-9ac6-5b5f0eb9487a",
+            "date_created": "2025-03-03T07:11:07.165Z",
+            "user_updated": "0362b822-0011-4b93-b051-7e4422debf5a",
+            "date_updated": "2025-03-03T13:49:41.629Z",
+            "date_mort": "2025-01-24",
+            "prenom_nom": "Serigne Fallou Mbacké Diop",
+            "age": null,
+            "profession": "Chauffeur de transport en commun",
+            "cause_mort": "Mort par balle",
+            "presentation": null,
+            "region": "Dakar",
+            "departement": "Dakar",
+            "commune": "Parcelles Assainies",
+            "sexe": "M",
+            "photo_principale": "55bd9005-4f34-4c0c-b4d6-9e4bd94fc14f",
+            "localisation": {
+                "type": "Point",
+                "coordinates": [
+                    -17.43487639451871,
+                    14.753250926717243
+                ]
+            },
+            "afficher_accueil": false,
+            "photos": [],
+            "temoignages": []
+        }
+    ]
+}

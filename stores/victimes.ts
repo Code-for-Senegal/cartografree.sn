@@ -1,4 +1,6 @@
 import { defineStore } from 'pinia'
+// Importer les données locales
+import victimesData from '~/assets/data/cartografree_victimes.json'
 
 interface Point {
   type: 'Point'
@@ -15,6 +17,7 @@ interface Temoignage {
 
 interface Victime {
   id: number
+  ordre: number
   prenom_nom: string
   age: number | null
   profession: string | null
@@ -117,9 +120,38 @@ export const useVictimesStore = defineStore('victimes', {
       this.loading = true
       this.statistiquesCalculees = false
       this.error = null
+      
       try {
         const config = useRuntimeConfig()
-        const response = await fetch(`${config.public.apiBase}/items/cartografree_victimes?sort=date_mort&filter[status]=published&limit=200&fields=*,temoignages.*`, {
+        
+        // Utiliser les données locales si l'option est activée
+        if (config.public.useLocalData) {
+          console.log('Utilisation des données locales pour les victimes')
+          
+          // Simuler un délai pour imiter un appel réseau (optionnel)
+          await new Promise(resolve => setTimeout(resolve, 300))
+          
+          if (victimesData && victimesData.data && Array.isArray(victimesData.data)) {
+            this.victimes = victimesData.data.map((victime: any) => ({
+              ...victime,
+              localisation: victime.localisation ? {
+                type: 'Point',
+                coordinates: Array.isArray(victime.localisation.coordinates) 
+                  ? victime.localisation.coordinates 
+                  : null
+              } : null
+            }))
+            
+            this.statistiquesCalculees = true
+          } else {
+            throw new Error('Format de données locales inattendu: le fichier ne contient pas de tableau data')
+          }
+          
+          return
+        }
+        
+        // Sinon, faire l'appel API normal
+        const response = await fetch(`${config.public.apiBase}/items/cartografree_victimes?sort=ordre&filter[status]=published&limit=200&fields=*,temoignages.*`, {
           headers: {
             'Authorization': `Bearer ${config.public.apiToken}`
           }
@@ -195,6 +227,44 @@ export const useVictimesStore = defineStore('victimes', {
       console.log('Victime trouvée:', foundVictime?.prenom_nom || 'Aucune')
       
       return foundVictime
+    },
+
+    // Méthode pour trouver la victime précédente
+    findPreviousVictime(currentVictime: Victime) {
+      if (this.victimes.length <= 1) return null
+      
+      // Trier les victimes par ordre
+      const sortedVictimes = [...this.victimes].sort((a, b) => a.ordre - b.ordre)
+      
+      // Trouver l'index de la victime actuelle
+      const currentIndex = sortedVictimes.findIndex(v => v.id === currentVictime.id)
+      
+      // Si la victime n'est pas trouvée ou c'est la première, retourner la dernière
+      if (currentIndex === -1 || currentIndex === 0) {
+        return sortedVictimes[sortedVictimes.length - 1]
+      }
+      
+      // Sinon, retourner la victime précédente
+      return sortedVictimes[currentIndex - 1]
+    },
+
+    // Méthode pour trouver la victime suivante
+    findNextVictime(currentVictime: Victime) {
+      if (this.victimes.length <= 1) return null
+      
+      // Trier les victimes par ordre
+      const sortedVictimes = [...this.victimes].sort((a, b) => a.ordre - b.ordre)
+      
+      // Trouver l'index de la victime actuelle
+      const currentIndex = sortedVictimes.findIndex(v => v.id === currentVictime.id)
+      
+      // Si la victime n'est pas trouvée ou c'est la dernière, retourner la première
+      if (currentIndex === -1 || currentIndex === sortedVictimes.length - 1) {
+        return sortedVictimes[0]
+      }
+      
+      // Sinon, retourner la victime suivante
+      return sortedVictimes[currentIndex + 1]
     }
   }
 }) 

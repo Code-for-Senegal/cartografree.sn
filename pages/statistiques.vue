@@ -140,7 +140,7 @@
       </div>
 
       <!-- Répartition par profession -->
-      <div class="bg-gradient-to-br from-neutral-950 to-black rounded-2xl p-6 shadow-[0_8px_30px_rgb(0,0,0,0.12)] backdrop-blur-xl border border-white/[0.05]">
+      <div class="hidden bg-gradient-to-br from-neutral-950 to-black rounded-2xl p-6 shadow-[0_8px_30px_rgb(0,0,0,0.12)] backdrop-blur-xl border border-white/[0.05]">
         <h2 class="text-xl font-medium text-white mb-4">Répartition par profession</h2>
         <div class="aspect-[4/3]">
           <BarChart 
@@ -155,7 +155,7 @@
       </div>
 
       <!-- Graphique des professions les plus représentatives (style maquette) -->
-      <div class="bg-gradient-to-br from-neutral-950 to-black rounded-2xl p-6 shadow-[0_8px_30px_rgb(0,0,0,0.12)] backdrop-blur-xl border border-white/[0.05] md:col-span-2 mt-4">
+      <div class="hidden bg-gradient-to-br from-neutral-950 to-black rounded-2xl p-6 shadow-[0_8px_30px_rgb(0,0,0,0.12)] backdrop-blur-xl border border-white/[0.05] md:col-span-2 mt-4">
         <h2 class="text-xl font-medium text-white mb-6">Professions les plus représentatives</h2>
         
         <div v-if="professionsLabels.length > 0" class="space-y-6">

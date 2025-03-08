@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-screen bg-gradient-to-b from-neutral-900 via-neutral-950 to-black p-4 md:p-8">
+    <div class="min-h-screen bg-gradient-to-b from-neutral-900 via-neutral-950 to-black p-2 md:p-4">
       <div class="max-w-5xl mx-auto space-y-4">
         <!-- État de chargement -->
         <div v-if="loading" class="flex flex-col items-center justify-center py-12">
@@ -27,7 +27,7 @@
               <div class="relative group">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 z-10"></div>
                 
-                <div :class="`overflow-hidden rounded-tl-2xl rounded-bl-2xl md:rounded-bl-none md:rounded-tr-none border-4 ${getBorderColorClass}`">
+                <div :class="`overflow-hidden rounded-tl-2xl rounded-bl-2xl md:rounded-bl-none md:rounded-tr-none border-2 ${getBorderColorClass}`">
                   <!-- Version mobile: hauteur limitée -->
                   <div class="block md:hidden">
                     <img :src="victime.photo_principale ? `${config.public.apiBase}/assets/${victime.photo_principale}` : '/anonyme.png'" 
@@ -140,22 +140,50 @@
             </div>
           </div>
     
-          <!-- Bouton retour -->
-          <div class="pt-4">
-            <NuxtLink to="/victimes" 
-                      class="inline-flex items-center text-sm text-neutral-400 hover:text-white transition-colors duration-300 group">
-              <svg class="w-4 h-4 mr-2 transition-transform duration-300 group-hover:-translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 19l-7-7 7-7" />
-              </svg>
-              <span>Retour à la liste</span>
-            </NuxtLink>
+          <!-- Boutons de navigation précédent/suivant -->
+          <div class="pt-4 flex flex-col space-y-4">
+            <div class="flex justify-between">
+              <NuxtLink 
+                v-if="previousVictime" 
+                :to="`/victimes/${slugifyVictime(previousVictime.prenom_nom)}`" 
+                class="inline-flex items-center text-sm text-neutral-400 hover:text-white transition-colors duration-300 group bg-black/30 backdrop-blur-xl rounded-xl border border-white/[0.05]"
+              >
+                <svg class="w-4 h-4 mr-2 transition-transform duration-300 group-hover:-translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 19l-7-7 7-7" />
+                </svg>
+                <span>Victime précédente</span>
+              </NuxtLink>
+              
+              <NuxtLink 
+                v-if="nextVictime" 
+                :to="`/victimes/${slugifyVictime(nextVictime.prenom_nom)}`" 
+                class="inline-flex items-center text-sm text-neutral-400 hover:text-white transition-colors duration-300 group bg-black/30 backdrop-blur-xl rounded-xl border border-white/[0.05]"
+              >
+                <span>Victime suivante</span>
+                <svg class="w-4 h-4 ml-2 transition-transform duration-300 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 5l7 7-7 7" />
+                </svg>
+              </NuxtLink>
+            </div>
+            
+            <!-- Séparateur -->
+          <div class="border-t border-neutral-800 my-6"></div>
+            <div class="flex justify-start">
+              <NuxtLink to="/victimes" 
+                        class="inline-flex items-center text-sm text-neutral-400 hover:text-white transition-colors duration-300 group">
+                <svg class="w-4 h-4 mr-2 transition-transform duration-300 group-hover:-translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 19l-7-7 7-7" />
+                </svg>
+                <span>Retour à la liste</span>
+              </NuxtLink>
+            </div>
           </div>
           
           <!-- Séparateur -->
           <div class="border-t border-neutral-800 my-6"></div>
     
           <!-- Boutons de partage -->
-          <div class="flex space-x-6">
+          <div class="flex flex-col md:flex-row md:space-x-6 space-y-4 md:space-y-0">
             <button @click="partager('facebook')" 
                     class="text-neutral-400 hover:text-blue-500 transition-colors flex items-center space-x-2">
               <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -261,6 +289,31 @@
   const victime = computed(() => {
     return store.findVictimeBySlug(slug)
   })
+  
+  // Récupérer la victime précédente
+  const previousVictime = computed(() => {
+    if (!victime.value) return null
+    return store.findPreviousVictime(victime.value)
+  })
+  
+  // Récupérer la victime suivante
+  const nextVictime = computed(() => {
+    if (!victime.value) return null
+    return store.findNextVictime(victime.value)
+  })
+  
+  // Fonction pour créer un slug à partir d'un nom (pour les liens)
+  const slugifyVictime = (text: string) => {
+    return text
+      .toString()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase()
+      .trim()
+      .replace(/\s+/g, '-')
+      .replace(/[^\w-]+/g, '')
+      .replace(/--+/g, '-')
+  }
   
   // Calculer les coordonnées pour la carte
   const coordinates = computed<LatLngTuple>(() => {

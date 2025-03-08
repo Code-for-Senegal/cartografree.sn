@@ -11,6 +11,7 @@ export default defineNuxtConfig({
   ],
 
   gtag: {
+    enabled: !!process.env.GOOGLE_ANALYTICS_ID,
     id: process.env.GOOGLE_ANALYTICS_ID,
     config: {
       page_title: 'CartograFreeSenegal',
@@ -83,7 +84,8 @@ export default defineNuxtConfig({
       siteName: 'CartograFreeSenegal',
       siteDescription: 'Mémorial des victimes des manifestations au Sénégal',
       language: 'fr',
-      googleAnalyticsId: process.env.GOOGLE_ANALYTICS_ID
+      googleAnalyticsId: process.env.GOOGLE_ANALYTICS_ID,
+      useLocalData: process.env.USE_LOCAL_DATA === 'true'
     }
   },
 

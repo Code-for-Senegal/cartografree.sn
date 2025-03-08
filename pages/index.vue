@@ -95,7 +95,7 @@
           <l-map
             v-if="victimesGeoreferencees.length > 0"
             :zoom="6.5"
-            :center="[14.7167, -17.3677]"
+            :center="[14.8500, -15.5000]"
             :use-global-leaflet="false"
             class="h-full w-full z-0">
             <l-tile-layer

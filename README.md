@@ -53,6 +53,7 @@ yarn install
 DIRECTUS_URL=your_directus_api_url
 DIRECTUS_TOKEN=your_directus_api_token
 GOOGLE_ANALYTICS_ID=your_ga_id
+USE_LOCAL_DATA=false
 ```
 
 4. Start the development server
@@ -61,6 +62,20 @@ npm run dev
 # or
 yarn dev
 ```
+
+### Development with Local Data
+
+For contributors who want to develop without connecting to the API, the project includes local JSON data files in the `assets/data` directory:
+
+- `cartografree_victimes.json`: Contains victim data
+- `cartografree_temoignages.json`: Contains testimony data
+
+To use these local files instead of making API calls:
+
+1. Set `USE_LOCAL_DATA=true` in your `.env` file
+2. Restart the development server
+
+This allows you to work on the project without needing API credentials, making it easier for open-source contributors to get started.
 
 ## Deployment
 

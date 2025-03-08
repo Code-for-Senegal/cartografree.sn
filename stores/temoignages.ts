@@ -1,4 +1,6 @@
 import { defineStore } from 'pinia'
+// Importer les données locales
+import temoignagesData from '~/assets/data/cartografree_temoignages.json'
 
 export interface Temoignage {
   id: number
@@ -50,6 +52,23 @@ export const useTemoignagesStore = defineStore('temoignages', {
       this.error = null
       
       try {
+        // Utiliser les données locales si l'option est activée
+        if (config.public.useLocalData) {
+          console.log('Utilisation des données locales pour les témoignages')
+          
+          // Simuler un délai pour imiter un appel réseau (optionnel)
+          await new Promise(resolve => setTimeout(resolve, 300))
+          
+          if (temoignagesData && temoignagesData.data && Array.isArray(temoignagesData.data)) {
+            this.temoignages = temoignagesData.data
+          } else {
+            throw new Error('Format de données locales inattendu: le fichier ne contient pas de tableau data')
+          }
+          
+          return
+        }
+        
+        // Sinon, faire l'appel API normal
         const response = await fetch(`${config.public.apiBase}/items/cartografree_temoignages?sort=-date_publication`, {
           headers: {
             'Authorization': `Bearer ${config.public.apiToken}`

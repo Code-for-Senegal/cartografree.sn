@@ -37,6 +37,11 @@
     <!-- Filtres -->
     <div class="bg-gradient-to-br from-gray-900 to-neutral-950 p-2 md:p-4 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.12)] backdrop-blur-xl border border-white/[0.05]">
       <div class="grid grid-cols-1 md:grid-cols-3 gap-2">
+        <input type="text" 
+               v-model="store.filters.recherche" 
+               :disabled="store.loading"
+               placeholder="rechercher par nom..."
+               class="w-full bg-black/50 text-white rounded-xl px-4 py-3 focus:ring-1 focus:ring-white/10 border border-white/[0.05] text-sm placeholder:text-neutral-600 disabled:opacity-50">
         <select v-model="store.filters.region" 
                 :disabled="store.loading"
                 class="w-full bg-black/50 text-white rounded-xl px-4 py-3 focus:ring-1 focus:ring-white/10 border border-white/[0.05] text-sm disabled:opacity-50">
@@ -53,22 +58,18 @@
             {{ annee }}
           </option>
         </select>
-        <input type="text" 
-               v-model="store.filters.recherche" 
-               :disabled="store.loading"
-               placeholder="rechercher par nom..."
-               class="w-full bg-black/50 text-white rounded-xl px-4 py-3 focus:ring-1 focus:ring-white/10 border border-white/[0.05] text-sm placeholder:text-neutral-600 disabled:opacity-50">
+
       </div>
       
       <!-- Filtre par période de manifestation -->
-      <div class="mt-3">
-        <div class="flex flex-wrap gap-2">
+      <div class="mt-3 text-center">
+        <div class="flex flex-wrap gap-2 items-center justify-center">
           <button 
             @click="store.setFilter('periode', '')"
             :class="[
-              'px-3 py-2 text-xs rounded-lg transition-all duration-200 border',
+              'px-2 py-2 text-xs rounded-lg transition-all duration-200 border',
               !store.filters.periode 
-                ? 'bg-white/10 text-white border-blue-500' 
+                ? 'bg-white/10 text-white border-gray-700' 
                 : 'bg-black/50 text-neutral-400 border-white/[0.05] hover:text-white hover:bg-white/5'
             ]"
           >
@@ -77,7 +78,7 @@
           <button 
             @click="store.setFilter('periode', 'mars 2021')"
             :class="[
-              'px-3 py-2 text-xs rounded-lg transition-all duration-200 border',
+              'px-2 py-2 text-xs rounded-lg transition-all duration-200 border',
               store.filters.periode === 'mars 2021' 
                 ? 'bg-white/10 text-white border-red-500' 
                 : 'bg-black/50 text-neutral-400 border-white/[0.05] hover:text-white hover:bg-white/5'
@@ -88,7 +89,7 @@
           <button 
             @click="store.setFilter('periode', 'juin 2022')"
             :class="[
-              'px-3 py-2 text-xs rounded-lg transition-all duration-200 border',
+              'px-2 py-2 text-xs rounded-lg transition-all duration-200 border',
               store.filters.periode === 'juin 2022' 
                 ? 'bg-white/10 text-white border-blue-500' 
                 : 'bg-black/50 text-neutral-400 border-white/[0.05] hover:text-white hover:bg-white/5'
@@ -225,31 +226,29 @@
       <!-- Vue liste -->
       <div v-else class="space-y-4">
         <div v-for="victime in store.victimesFiltrees" :key="victime.id"
-             class="group relative overflow-hidden transition-all duration-300 hover:shadow-lg">
-          <!-- Bordure colorée stylisée -->
-          <div :class="`absolute inset-0 rounded-2xl ${getCardColorClass(victime.date_mort)}`"></div>
+             :class="`group relative overflow-hidden transition-all duration-300 hover:shadow-lg rounded-2xl `">
           
           <!-- Contenu avec padding pour laisser voir la bordure -->
-          <div class="absolute inset-[3px] bg-gradient-to-br from-neutral-950 to-black rounded-xl p-4">
-            <div class="flex items-center space-x-4">
-              <div class="w-16 h-16 bg-black rounded-xl overflow-hidden flex-shrink-0">
-                <img :src="victime.photo_principale ? `${config.public.apiBase}/assets/${victime.photo_principale}` : '/unknown_member.webp'" 
-                     :alt="victime.prenom_nom"
-                     class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+          <div class="bg-gradient-to-br from-neutral-950 to-black rounded-xl p-4">
+            <NuxtLink :to="`/victimes/${slugify(victime.prenom_nom)}`" class="block">
+              <div class="flex items-center space-x-4">
+                <div class="w-16 h-16 bg-black rounded-xl overflow-hidden flex-shrink-0">
+                  <img :src="victime.photo_principale ? `${config.public.apiBase}/assets/${victime.photo_principale}` : '/unknown_member.webp'" 
+                       :alt="victime.prenom_nom"
+                       class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                </div>
+                <div class="flex-grow">
+                  <h3 class="text-lg font-light text-white tracking-tight mb-1">{{ victime.prenom_nom }}</h3>
+                  <p class="text-neutral-400 text-xs font-normal mb-1">{{ capitalizeFirstLetter(victime.region.toLowerCase()) }}{{ victime.age ? ` • ${victime.age} ans` : '' }}{{ victime.commune ? ` • ${victime.commune}` : '' }}</p>
+                  <p class="text-neutral-400 text-xs font-normal">{{ formatDate(victime.date_mort) }}</p>
+                </div>
+                <div class="flex items-center text-neutral-500 hover:text-white transition-colors">
+                  <svg class="w-4 h-4 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 5l7 7-7 7" />
+                  </svg>
+                </div>
               </div>
-              <div class="flex-grow">
-                <h3 class="text-lg font-light text-white tracking-tight mb-1">{{ victime.prenom_nom }}</h3>
-                <p class="text-neutral-400 text-xs font-normal mb-1">{{ capitalizeFirstLetter(victime.region.toLowerCase()) }}{{ victime.age ? ` • ${victime.age} ans` : '' }}{{ victime.commune ? ` • ${victime.commune}` : '' }}</p>
-                <p class="text-neutral-400 text-xs font-normal">{{ formatDate(victime.date_mort) }}</p>
-              </div>
-              <NuxtLink 
-                :to="`/victimes/${slugify(victime.prenom_nom)}`"
-                class="flex items-center text-neutral-500 hover:text-white transition-colors">
-                <svg class="w-4 h-4 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 5l7 7-7 7" />
-                </svg>
-              </NuxtLink>
-            </div>
+            </NuxtLink>
           </div>
         </div>
       </div>
